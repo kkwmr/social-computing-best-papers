@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it as below."
+title: "Social Computing & HCI Best Paper Awards"
+abstract: >-
+  A source-linked index of Best Paper-class awards (2015-2025) across social
+  computing, human-computer interaction, web science, computational social
+  science, and online community research venues (CHI, CSCW, ICWSM, WebSci,
+  IC2S2, WWW, SocInfo, GROUP, HCOMP, CHIIR, UIST, DIS, IMWUT/UbiComp, WSDM,
+  KDD, AAMAS).
+type: dataset
+authors:
+  - family-names: Kawamura
+    given-names: Kazuki
+    website: "https://casp.jp/"
+    orcid: "https://orcid.org/0000-0002-5181-320X"
+url: "https://casp.jp/social-computing-best-papers/"
+repository-code: "https://github.com/kkwmr/social-computing-best-papers"
+license: CC-BY-4.0
+date-released: "2026-05-31"
+version: "2026.05"
+keywords:
+  - social computing
+  - human-computer interaction
+  - web science
+  - computational social science
+  - best paper awards
+  - online communities
