@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_794 awards · 16 venues · 2015–2026 · last updated **2026-06-30**._
+_796 awards · 16 venues · 2015–2026 · last updated **2026-07-10**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -21,7 +21,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [UIST](#uist) — ACM Symposium on User Interface Software and Technology (39)
 - [WEBSCI](#websci) — ACM Web Science Conference (19)
 - [WSDM](#wsdm) — ACM International Conference on Web Search and Data Mining (16)
-- [WWW](#www) — The Web Conference (ACM Web Conference) (16)
+- [WWW](#www) — The Web Conference (ACM Web Conference) (18)
 
 ## AAMAS
 _International Conference on Autonomous Agents and Multiagent Systems_ · [venue site](https://www.aamas-conference.org/)
@@ -1256,6 +1256,11 @@ _ACM International Conference on Web Search and Data Mining_ · [venue site](htt
 
 ## WWW
 _The Web Conference (ACM Web Conference)_ · [venue site](https://thewebconf.org/)
+
+### WWW 2026
+
+- **Best Paper Award** — From Retrieval to Generation: Unifying External and Parametric Knowledge for Medical Question Answering — Lei Li, Xiao Zhou, Yingying Zhang, Xian Wu ([source](https://www2026.thewebconf.org/))
+- **Best Short Paper Award** — DualGR: Generative Retrieval with Long and Short-Term Interests Modeling — Zhongchao Yi, Kai Feng, Xiaojian Ma, Yalong Wang, Yongqi Liu, Han Li, Zhengyang Zhou, Yang Wang ([source](https://www2026.thewebconf.org/))
 
 ### WWW 2025
 

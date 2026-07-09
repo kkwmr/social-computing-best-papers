@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-06-30",
-  "count": 794,
+  "lastUpdated": "2026-07-10",
+  "count": 796,
   "venues": [
     {
       "name": "CHI",
@@ -1107,6 +1107,30 @@
       "author": "Minmao Wang, Rui Zhang, Shijie Yi, Qingpeng Cai, Likang Wu, Hongke Zhao, Fei Pan, Peng Jiang",
       "link": "https://dl.acm.org/doi/10.1145/3773966.3777956",
       "source": "https://en.tju.edu.cn/info/1010/12926.htm",
+      "areas": "WS"
+    },
+    {
+      "venue": "WWW",
+      "year": 2026,
+      "place": "Dubai, United Arab Emirates",
+      "date": "June 29-July 3, 2026",
+      "award": "Best Paper Award",
+      "title": "From Retrieval to Generation: Unifying External and Parametric Knowledge for Medical Question Answering",
+      "author": "Lei Li, Xiao Zhou, Yingying Zhang, Xian Wu",
+      "link": "",
+      "source": "https://www2026.thewebconf.org/",
+      "areas": "WS"
+    },
+    {
+      "venue": "WWW",
+      "year": 2026,
+      "place": "Dubai, United Arab Emirates",
+      "date": "June 29-July 3, 2026",
+      "award": "Best Short Paper Award",
+      "title": "DualGR: Generative Retrieval with Long and Short-Term Interests Modeling",
+      "author": "Zhongchao Yi, Kai Feng, Xiaojian Ma, Yalong Wang, Yongqi Liu, Han Li, Zhengyang Zhou, Yang Wang",
+      "link": "",
+      "source": "https://www2026.thewebconf.org/",
       "areas": "WS"
     },
     {
