@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_796 awards · 16 venues · 2015–2026 · last updated **2026-07-10**._
+_801 awards · 16 venues · 2015–2026 · last updated **2026-07-11**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -8,7 +8,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 
 - [AAMAS](#aamas) — International Conference on Autonomous Agents and Multiagent Systems (28)
 - [CHI](#chi) — ACM CHI Conference on Human Factors in Computing Systems (392)
-- [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (12)
+- [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (17)
 - [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (85)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (51)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (2)
@@ -523,6 +523,14 @@ _ACM CHI Conference on Human Factors in Computing Systems_ · [venue site](https
 
 ## CHIIR
 _ACM SIGIR Conference on Human Information Interaction and Retrieval_ · [venue site](https://dl.acm.org/conference/chiir)
+
+### CHIIR 2026
+
+- **Best Paper Award** — ["Can You Tell Me?": Designing Copilots to Support Human Judgement in Online Information Seeking](https://dl.acm.org/doi/10.1145/3786304.3787866) — Markus Bink, Marten Risius, Udo Kruschwitz, David Elsweiler ([source](https://chiir2026.github.io/awards.html))
+- **Best Paper Runner-up** — [Does It Still Make Sense? Organizing and Summarizing Resources in Cross-Session Aggregated Search](https://dl.acm.org/doi/10.1145/3786304.3787873) — Milad Momeni, Orland Hoeber ([source](https://chiir2026.github.io/awards.html))
+- **Best Short Paper Award** — [Interest-Driven Search in AI-Mediated Information Environments: An Audio Diary Study](https://dl.acm.org/doi/10.1145/3786304.3787881) — Yujin Choi, Soo Young Rieh ([source](https://chiir2026.github.io/awards.html))
+- **Best Short Paper Runner-up** — [Implicit Humanization in Everyday LLM Moral Judgments](https://dl.acm.org/doi/10.1145/3786304.3787880) — Hoda Ayad, Tanu Mitra ([source](https://chiir2026.github.io/awards.html))
+- **Best Demo Paper Award** — [Result Assessment Tool (RAT): An Open-Source Toolkit for Conducting Studies based on Search Results](https://dl.acm.org/doi/10.1145/3786304.3787925) — Sebastian Sünkler, Kardelen Bilir, Tuhina Kumar, Oliver Koop, Sebastian Schultheiß, Dirk Lewandowski ([source](https://chiir2026.github.io/awards.html))
 
 ### CHIIR 2025
 
