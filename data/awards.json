@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-11",
-  "count": 801,
+  "lastUpdated": "2026-07-12",
+  "count": 803,
   "venues": [
     {
       "name": "CHI",
@@ -1120,6 +1120,30 @@
       "link": "https://doi.org/10.1145/3800645.3812943",
       "source": "https://dis.acm.org/2026/dis-2026-awards-and-recognition/",
       "areas": "HCI"
+    },
+    {
+      "venue": "ICWSM",
+      "year": 2026,
+      "place": "Los Angeles, California, USA",
+      "date": "May 27-29, 2026",
+      "award": "Best Paper Award",
+      "title": "Flattening Fantasies: Analyzing Stereotypes in Pornographic Discourse",
+      "author": "Sarmad Chandio, Osama Khalid, Sharaf Zia, Ethan Kutlu",
+      "link": "https://ojs.aaai.org/index.php/ICWSM/article/view/42646",
+      "source": "https://cs.uiowa.edu/news/2026/06/ICWSM",
+      "areas": "WS"
+    },
+    {
+      "venue": "ICWSM",
+      "year": 2026,
+      "place": "Los Angeles, California, USA",
+      "date": "May 27-29, 2026",
+      "award": "Best Dataset Paper Award",
+      "title": "MASH: A Multiplatform and Multimodal Annotated Dataset for Societal Impact of Hurricane",
+      "author": "Ruichen Yao, Aslanbek Murzakhmetov, Raaghav Pillai, Aliya Maussymbayeva, Zelin Li, Yifan Liu, Yaokun Liu, Lanyu Shang, Yang Zhang, Na Wei, Ximing Cai, Dong Wang",
+      "link": "https://ojs.aaai.org/index.php/ICWSM/article/view/42795",
+      "source": "https://ojs.aaai.org/index.php/ICWSM/article/view/42795",
+      "areas": "WS"
     },
     {
       "venue": "ICWSM",

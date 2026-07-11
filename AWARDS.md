@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_801 awards · 16 venues · 2015–2026 · last updated **2026-07-11**._
+_803 awards · 16 venues · 2015–2026 · last updated **2026-07-12**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -14,7 +14,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (2)
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
 - [IC2S2](#ic2s2) — International Conference on Computational Social Science (13)
-- [ICWSM](#icwsm) — International AAAI Conference on Web and Social Media (15)
+- [ICWSM](#icwsm) — International AAAI Conference on Web and Social Media (17)
 - [IMWUT](#imwut) — ACM IMWUT / UbiComp (Interactive, Mobile, Wearable and Ubiquitous Technologies) (57)
 - [KDD](#kdd) — ACM SIGKDD Conference on Knowledge Discovery and Data Mining (34)
 - [SOCINFO](#socinfo) — International Conference on Social Informatics (3)
@@ -856,6 +856,8 @@ _International AAAI Conference on Web and Social Media_ · [venue site](https://
 
 ### ICWSM 2026
 
+- **Best Paper Award** — [Flattening Fantasies: Analyzing Stereotypes in Pornographic Discourse](https://ojs.aaai.org/index.php/ICWSM/article/view/42646) — Sarmad Chandio, Osama Khalid, Sharaf Zia, Ethan Kutlu ([source](https://cs.uiowa.edu/news/2026/06/ICWSM))
+- **Best Dataset Paper Award** — [MASH: A Multiplatform and Multimodal Annotated Dataset for Societal Impact of Hurricane](https://ojs.aaai.org/index.php/ICWSM/article/view/42795) — Ruichen Yao, Aslanbek Murzakhmetov, Raaghav Pillai, Aliya Maussymbayeva, Zelin Li, Yifan Liu, Yaokun Liu, Lanyu Shang, Yang Zhang, Na Wei, Ximing Cai, Dong Wang
 - **Honorable Mention** — [The Great Data Standoff: Researchers vs. Platforms Under the Digital Services Act](https://ojs.aaai.org/index.php/ICWSM/article/view/42671) — Catalina Goanta, Savvas Zannettou, Rishabh Kaushal, Jacob van de Kerkhof, Thales Bertaglia, Taylor Annabell, Haoyang Gui, Gerasimos Spanakis, Adriana Iamnitchi
 
 ### ICWSM 2025
