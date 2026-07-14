@@ -4,7 +4,7 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-12",
+  "lastUpdated": "2026-07-15",
   "count": 803,
   "venues": [
     {
@@ -1164,7 +1164,7 @@
       "date": "May 26-29, 2026",
       "award": "Best Paper Award",
       "title": "Framing the Fringe: Dynamics of Ingroup and Outgroup Narratives in Fringe Telegram Channels",
-      "author": "Yasmine Houri, Upasana Dutta",
+      "author": "Upasana Dutta, Yasmine Houri",
       "link": "https://dl.acm.org/doi/10.1145/3795766.3799784",
       "source": "https://websci26.org/?page_id=897",
       "areas": "SC;WS"
@@ -1201,7 +1201,7 @@
       "award": "Best Paper Award",
       "title": "From Retrieval to Generation: Unifying External and Parametric Knowledge for Medical Question Answering",
       "author": "Lei Li, Xiao Zhou, Yingying Zhang, Xian Wu",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3774904.3792691",
       "source": "https://www2026.thewebconf.org/",
       "areas": "WS"
     },
@@ -1213,7 +1213,7 @@
       "award": "Best Short Paper Award",
       "title": "DualGR: Generative Retrieval with Long and Short-Term Interests Modeling",
       "author": "Zhongchao Yi, Kai Feng, Xiaojian Ma, Yalong Wang, Yongqi Liu, Han Li, Zhengyang Zhou, Yang Wang",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3774904.3792851",
       "source": "https://www2026.thewebconf.org/",
       "areas": "WS"
     },
