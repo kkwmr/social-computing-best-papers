@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_803 awards · 16 venues · 2015–2026 · last updated **2026-07-15**._
+_804 awards · 16 venues · 2015–2026 · last updated **2026-07-19**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -21,7 +21,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [UIST](#uist) — ACM Symposium on User Interface Software and Technology (39)
 - [WEBSCI](#websci) — ACM Web Science Conference (19)
 - [WSDM](#wsdm) — ACM International Conference on Web Search and Data Mining (16)
-- [WWW](#www) — The Web Conference (ACM Web Conference) (18)
+- [WWW](#www) — The Web Conference (ACM Web Conference) (19)
 
 ## AAMAS
 _International Conference on Autonomous Agents and Multiagent Systems_ · [venue site](https://www.aamas-conference.org/)
@@ -1308,6 +1308,10 @@ _The Web Conference (ACM Web Conference)_ · [venue site](https://thewebconf.org
 ### WWW 2018
 
 - **Best Paper Award** — [HighLife: Higher-arity Fact Harvesting](https://dl.acm.org/doi/10.1145/3178876.3186000) — Patrick Ernst, Amy Siu, Gerhard Weikum ([source](https://archives.iw3c2.org/www2018/awards/))
+
+### WWW 2017
+
+- **Best Paper Award Honorable Mention** — [Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment](https://dl.acm.org/doi/10.1145/3038912.3052660) — Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez-Rodriguez, Krishna P. Gummadi ([source](https://www.mpi-sws.org/category/prize/best-paper-award/))
 
 ### WWW 2016
 

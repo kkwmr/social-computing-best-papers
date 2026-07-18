@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-15",
-  "count": 803,
+  "lastUpdated": "2026-07-19",
+  "count": 804,
   "venues": [
     {
       "name": "CHI",
@@ -8655,6 +8655,18 @@
       "author": "Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, Michael Mathioudakis",
       "link": "https://doi.org/10.1145/3018661.3018703",
       "source": "https://www.hiit.fi/best-student-paper-award-at-wsdm-2017/",
+      "areas": "WS"
+    },
+    {
+      "venue": "WWW",
+      "year": 2017,
+      "place": "",
+      "date": "",
+      "award": "Best Paper Award Honorable Mention",
+      "title": "Fairness Beyond Disparate Treatment & Disparate Impact: Learning Classification without Disparate Mistreatment",
+      "author": "Muhammad Bilal Zafar, Isabel Valera, Manuel Gomez-Rodriguez, Krishna P. Gummadi",
+      "link": "https://dl.acm.org/doi/10.1145/3038912.3052660",
+      "source": "https://www.mpi-sws.org/category/prize/best-paper-award/",
       "areas": "WS"
     },
     {
