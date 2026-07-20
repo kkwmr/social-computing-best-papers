@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-19",
-  "count": 804,
+  "lastUpdated": "2026-07-21",
+  "count": 805,
   "venues": [
     {
       "name": "CHI",
@@ -6927,6 +6927,18 @@
       "author": "Nithya Sambasivan, Amna Batool, Nova Ahmed, Tara Lynn Matthews, Kurt Thomas, Laura Sanely Gaytan-Lugo, Elie Bursztein, Elizabeth F. Churchill, Sunny Consolvo",
       "link": "",
       "source": "https://jeffhuang.com/best_paper_awards/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "CHIIR",
+      "year": 2019,
+      "place": "",
+      "date": "",
+      "award": "Honorable Mention",
+      "title": "\"Enslaved to the Trapped Data\": A Cognitive Work Analysis of Medical Systematic Reviews",
+      "author": "Ian A. Knight, Max L. Wilson, David F. Brailsford, Natasa Milic-Frayling",
+      "link": "https://dl.acm.org/doi/10.1145/3295750.3298937",
+      "source": "https://www.acm.org/conferences/best-paper-awards-2019",
       "areas": "HCI"
     },
     {
