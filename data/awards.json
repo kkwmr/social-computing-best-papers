@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-21",
-  "count": 805,
+  "lastUpdated": "2026-07-23",
+  "count": 802,
   "venues": [
     {
       "name": "CHI",
@@ -2034,42 +2034,6 @@
       "areas": "SC;HCI"
     },
     {
-      "venue": "CSCW",
-      "year": 2025,
-      "place": "Bergen, Norway",
-      "date": "October 18-22, 2025",
-      "award": "Best Paper Award",
-      "title": "The Data-Outsourcing Continuum: Understanding Data Usage in Frontline Decision-Making About People Experiencing Homelessness",
-      "author": "Teale W. Masrani, Geoffrey Messier, Amy Voida, Gina Dimitropoulos, Helen Ai He",
-      "link": "",
-      "source": "https://medium.com/acm-cscw/announcing-the-best-of-cscw-2025-a95517e67ba3",
-      "areas": "SC;HCI"
-    },
-    {
-      "venue": "CSCW",
-      "year": 2025,
-      "place": "Bergen, Norway",
-      "date": "October 18-22, 2025",
-      "award": "Best Paper Award",
-      "title": "A Theoretical Framework for Embodied Digital Place-Making based on Felt Structure",
-      "author": "Chunchen Xu, Xiao Ge",
-      "link": "",
-      "source": "https://medium.com/acm-cscw/announcing-the-best-of-cscw-2025-a95517e67ba3",
-      "areas": "SC;HCI"
-    },
-    {
-      "venue": "CSCW",
-      "year": 2025,
-      "place": "Bergen, Norway",
-      "date": "October 18-22, 2025",
-      "award": "Best Paper Award",
-      "title": "Understanding the Resilience of Caste: A Critical Discourse Analysis of Community Profiles on X",
-      "author": "Nayana Kirasur, Shagun Jhaver",
-      "link": "",
-      "source": "https://medium.com/acm-cscw/announcing-the-best-of-cscw-2025-a95517e67ba3",
-      "areas": "SC;HCI"
-    },
-    {
       "venue": "DIS",
       "year": 2025,
       "place": "",
@@ -2125,7 +2089,7 @@
       "award": "Best Paper Award",
       "title": "Reddit Rules and Rulers: Quantifying the Link Between Rules and Perceptions of Governance Across Thousands of Communities",
       "author": "Leon Leibmann, Galen Weld, Amy X. Zhang, Tim Althoff",
-      "link": "",
+      "link": "https://ojs.aaai.org/index.php/ICWSM/article/view/35863",
       "source": "https://news.cs.washington.edu/2025/09/10/allen-school-researchers-receive-icwsm-best-paper-award-for-analyzing-reddit-rules/",
       "areas": "WS"
     },
@@ -2149,7 +2113,7 @@
       "award": "Best Student Paper Award (Research Track)",
       "title": "Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity",
       "author": "Shiyin Tan, Dongyuan Li, Renhe Jiang, Zhen Wang, Xingtong Yu, Manabu Okumura",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3711896.3737146",
       "source": "https://kdd.org/awards/view/2025-sigkdd-best-paper-award-winners",
       "areas": "WS"
     },
@@ -2161,7 +2125,7 @@
       "award": "Best Paper Award (Applied Data Science Track)",
       "title": "Evaluating Decision Rules Across Many Weak Experiments",
       "author": "Winston Chou, Colin Gray, Nathan Kallus, Aurélien Bibaut, Simon Ejdemyr",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3711896.3737217",
       "source": "https://kdd.org/awards/view/2025-sigkdd-best-paper-award-winners",
       "areas": "WS"
     },
@@ -2173,7 +2137,7 @@
       "award": "Best Paper Award (Dataset and Benchmark Track)",
       "title": "When Heterophily Meets Heterogeneity: Challenges and a New Large-Scale Graph Benchmark",
       "author": "Junhong Lin, Xiaojie Guo, Shuaicheng Zhang, Yada Zhu, Julian Shun",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3711896.3737421",
       "source": "https://kdd.org/awards/view/2025-sigkdd-best-paper-award-winners",
       "areas": "WS"
     },
@@ -6349,7 +6313,7 @@
       "award": "Best Student Paper",
       "title": "Impact of Algorithmic Decision Making on Human Behavior: Evidence from Ultimatum Bargaining",
       "author": "Alexander Erlei, Franck Awounang Nekdem, Lukas Meub, Avishek Anand, Ujwal Gadiraju",
-      "link": "",
+      "link": "https://ojs.aaai.org/index.php/HCOMP/article/view/7462",
       "source": "https://www.humancomputation.com/2026/past-meetings.html",
       "areas": "SC"
     },
@@ -8065,7 +8029,7 @@
       "award": "Best Paper Award",
       "title": "Spoken Instruction-Based One-Shot Object and Action Learning in a Cognitive Robotic Architecture",
       "author": "Matthias Scheutz, Evan Krause, Brad Oosterveld, Tyler Frasca, Robert Platt",
-      "link": "",
+      "link": "https://dl.acm.org/citation.cfm?id=3091315",
       "source": "https://www.ifaamas.org/AAMAS/aamas2017/downloads/AAMAS2017-Awards-Session.pdf",
       "areas": "SC"
     },

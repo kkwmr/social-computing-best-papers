@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_805 awards · 16 venues · 2015–2026 · last updated **2026-07-21**._
+_802 awards · 16 venues · 2015–2026 · last updated **2026-07-23**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -9,7 +9,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [AAMAS](#aamas) — International Conference on Autonomous Agents and Multiagent Systems (28)
 - [CHI](#chi) — ACM CHI Conference on Human Factors in Computing Systems (392)
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
-- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (85)
+- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (82)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (51)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (2)
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
@@ -78,7 +78,7 @@ _International Conference on Autonomous Agents and Multiagent Systems_ · [venue
 
 ### AAMAS 2017
 
-- **Best Paper Award** — Spoken Instruction-Based One-Shot Object and Action Learning in a Cognitive Robotic Architecture — Matthias Scheutz, Evan Krause, Brad Oosterveld, Tyler Frasca, Robert Platt ([source](https://www.ifaamas.org/AAMAS/aamas2017/downloads/AAMAS2017-Awards-Session.pdf))
+- **Best Paper Award** — [Spoken Instruction-Based One-Shot Object and Action Learning in a Cognitive Robotic Architecture](https://dl.acm.org/citation.cfm?id=3091315) — Matthias Scheutz, Evan Krause, Brad Oosterveld, Tyler Frasca, Robert Platt ([source](https://www.ifaamas.org/AAMAS/aamas2017/downloads/AAMAS2017-Awards-Session.pdf))
 - **Pragnesh Jay Modi Best Student Paper Award** — [Cost-Based Goal Recognition for Path-Planning](https://dl.acm.org/doi/10.5555/3091125.3091171) — Peta Masters, Sebastian Sardina ([source](https://www.ifaamas.org/AAMAS/aamas2017/downloads/AAMAS2017-Awards-Session.pdf))
 
 ### AAMAS 2016
@@ -590,9 +590,6 @@ _ACM Conference on Computer-Supported Cooperative Work and Social Computing_ · 
 - **Best Paper** — [Harm in Layers: Compositions of Misinformative Hate in Anti-Asian Speech and Their Impacts on Perceived Harmfulness](https://dl.acm.org/doi/10.1145/3710990) — Jiawei Zhou, Gaurav Verma, Lei Zhang, Nicholas Chang, Munmun De Choudhury ([source](https://programs.sigchi.org/cscw/2025/awards))
 - **Best Paper** — [Faster Information for Effective Long-Term Discharge: A Field Study in Adult Foster Care](https://dl.acm.org/doi/10.1145/3710983) — Vince Bartle, Ashley Shearer, Alexandra Wroe, Nicola Dell, Nikhil Garg ([source](https://programs.sigchi.org/cscw/2025/awards))
 - **Best Paper** — [Reimagining Digital Well-being: A Theoretical Framework Based on the Psychology of Felt Structure and Illustrated through Creative Storytelling](https://dl.acm.org/doi/10.1145/3757396) — Chunchen Xu, Xiao Ge ([source](https://programs.sigchi.org/cscw/2025/awards))
-- **Best Paper Award** — The Data-Outsourcing Continuum: Understanding Data Usage in Frontline Decision-Making About People Experiencing Homelessness — Teale W. Masrani, Geoffrey Messier, Amy Voida, Gina Dimitropoulos, Helen Ai He ([source](https://medium.com/acm-cscw/announcing-the-best-of-cscw-2025-a95517e67ba3))
-- **Best Paper Award** — A Theoretical Framework for Embodied Digital Place-Making based on Felt Structure — Chunchen Xu, Xiao Ge ([source](https://medium.com/acm-cscw/announcing-the-best-of-cscw-2025-a95517e67ba3))
-- **Best Paper Award** — Understanding the Resilience of Caste: A Critical Discourse Analysis of Community Profiles on X — Nayana Kirasur, Shagun Jhaver ([source](https://medium.com/acm-cscw/announcing-the-best-of-cscw-2025-a95517e67ba3))
 
 ### CSCW 2024
 
@@ -808,7 +805,7 @@ _AAAI Conference on Human Computation and Crowdsourcing_ · [venue site](https:/
 ### HCOMP 2020
 
 - **Best Paper Award** — [Motivating Novice Crowd Workers through Goal Setting: An Investigation into the Effects on Complex Crowdsourcing Task Training](https://ojs.aaai.org/index.php/HCOMP/article/view/7470) — Amy Rechkemmer, Ming Yin ([source](https://www.humancomputation.com/2021/past%20meetings.html))
-- **Best Student Paper** — Impact of Algorithmic Decision Making on Human Behavior: Evidence from Ultimatum Bargaining — Alexander Erlei, Franck Awounang Nekdem, Lukas Meub, Avishek Anand, Ujwal Gadiraju ([source](https://www.humancomputation.com/2026/past-meetings.html))
+- **Best Student Paper** — [Impact of Algorithmic Decision Making on Human Behavior: Evidence from Ultimatum Bargaining](https://ojs.aaai.org/index.php/HCOMP/article/view/7462) — Alexander Erlei, Franck Awounang Nekdem, Lukas Meub, Avishek Anand, Ujwal Gadiraju ([source](https://www.humancomputation.com/2026/past-meetings.html))
 
 ### HCOMP 2019
 
@@ -866,7 +863,7 @@ _International AAAI Conference on Web and Social Media_ · [venue site](https://
 
 ### ICWSM 2025
 
-- **Best Paper Award** — Reddit Rules and Rulers: Quantifying the Link Between Rules and Perceptions of Governance Across Thousands of Communities — Leon Leibmann, Galen Weld, Amy X. Zhang, Tim Althoff ([source](https://news.cs.washington.edu/2025/09/10/allen-school-researchers-receive-icwsm-best-paper-award-for-analyzing-reddit-rules/))
+- **Best Paper Award** — [Reddit Rules and Rulers: Quantifying the Link Between Rules and Perceptions of Governance Across Thousands of Communities](https://ojs.aaai.org/index.php/ICWSM/article/view/35863) — Leon Leibmann, Galen Weld, Amy X. Zhang, Tim Althoff ([source](https://news.cs.washington.edu/2025/09/10/allen-school-researchers-receive-icwsm-best-paper-award-for-analyzing-reddit-rules/))
 
 ### ICWSM 2024
 
@@ -1007,9 +1004,9 @@ _ACM SIGKDD Conference on Knowledge Discovery and Data Mining_ · [venue site](h
 ### KDD 2025
 
 - **SIGKDD Best Research Paper Award** — [Improving Group Robustness on Spurious Correlation via Evidential Alignment](https://arxiv.org/abs/2506.11347) — Wenqian Ye, Guangtao Zheng, Aidong Zhang ([source](https://kdd.org/awards/view/2025-sigkdd-best-paper-award-winners))
-- **Best Student Paper Award (Research Track)** — Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity — Shiyin Tan, Dongyuan Li, Renhe Jiang, Zhen Wang, Xingtong Yu, Manabu Okumura ([source](https://kdd.org/awards/view/2025-sigkdd-best-paper-award-winners))
-- **Best Paper Award (Applied Data Science Track)** — Evaluating Decision Rules Across Many Weak Experiments — Winston Chou, Colin Gray, Nathan Kallus, Aurélien Bibaut, Simon Ejdemyr ([source](https://kdd.org/awards/view/2025-sigkdd-best-paper-award-winners))
-- **Best Paper Award (Dataset and Benchmark Track)** — When Heterophily Meets Heterogeneity: Challenges and a New Large-Scale Graph Benchmark — Junhong Lin, Xiaojie Guo, Shuaicheng Zhang, Yada Zhu, Julian Shun ([source](https://kdd.org/awards/view/2025-sigkdd-best-paper-award-winners))
+- **Best Student Paper Award (Research Track)** — [Taming Recommendation Bias with Causal Intervention on Evolving Personal Popularity](https://dl.acm.org/doi/10.1145/3711896.3737146) — Shiyin Tan, Dongyuan Li, Renhe Jiang, Zhen Wang, Xingtong Yu, Manabu Okumura ([source](https://kdd.org/awards/view/2025-sigkdd-best-paper-award-winners))
+- **Best Paper Award (Applied Data Science Track)** — [Evaluating Decision Rules Across Many Weak Experiments](https://dl.acm.org/doi/10.1145/3711896.3737217) — Winston Chou, Colin Gray, Nathan Kallus, Aurélien Bibaut, Simon Ejdemyr ([source](https://kdd.org/awards/view/2025-sigkdd-best-paper-award-winners))
+- **Best Paper Award (Dataset and Benchmark Track)** — [When Heterophily Meets Heterogeneity: Challenges and a New Large-Scale Graph Benchmark](https://dl.acm.org/doi/10.1145/3711896.3737421) — Junhong Lin, Xiaojie Guo, Shuaicheng Zhang, Yada Zhu, Julian Shun ([source](https://kdd.org/awards/view/2025-sigkdd-best-paper-award-winners))
 
 ### KDD 2024
 
