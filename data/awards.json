@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-23",
-  "count": 802,
+  "lastUpdated": "2026-07-26",
+  "count": 804,
   "venues": [
     {
       "name": "CHI",
@@ -8608,6 +8608,30 @@
       "link": "https://doi.org/10.1145/3126594.3126599",
       "source": "https://uist.acm.org/2023/archive/",
       "areas": "HCI"
+    },
+    {
+      "venue": "WEBSCI",
+      "year": 2017,
+      "place": "",
+      "date": "",
+      "award": "Best Paper Award",
+      "title": "The Ethical Challenges of Publishing Twitter Data for Research Dissemination",
+      "author": "Helena Webb, Marina Jirotka, Bernd Carsten Stahl, William Housley, Adam Edwards, Matthew Williams, Rob Procter, Omer Rana, Pete Burnap",
+      "link": "https://dl.acm.org/doi/10.1145/3091478.3091489",
+      "source": "https://www.acm.org/conferences/best-paper-awards-2017",
+      "areas": "SC;WS"
+    },
+    {
+      "venue": "WEBSCI",
+      "year": 2017,
+      "place": "",
+      "date": "",
+      "award": "Best Student Paper",
+      "title": "The Effect of Collective Attention on Controversial Debates on Social Media",
+      "author": "Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, Michael Mathioudakis",
+      "link": "https://dl.acm.org/doi/10.1145/3091478.3091486",
+      "source": "https://www.acm.org/conferences/best-paper-awards-2017",
+      "areas": "SC;WS"
     },
     {
       "venue": "WSDM",

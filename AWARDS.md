@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_802 awards · 16 venues · 2015–2026 · last updated **2026-07-23**._
+_804 awards · 16 venues · 2015–2026 · last updated **2026-07-26**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -19,7 +19,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [KDD](#kdd) — ACM SIGKDD Conference on Knowledge Discovery and Data Mining (34)
 - [SOCINFO](#socinfo) — International Conference on Social Informatics (3)
 - [UIST](#uist) — ACM Symposium on User Interface Software and Technology (39)
-- [WEBSCI](#websci) — ACM Web Science Conference (19)
+- [WEBSCI](#websci) — ACM Web Science Conference (21)
 - [WSDM](#wsdm) — ACM International Conference on Web Search and Data Mining (16)
 - [WWW](#www) — The Web Conference (ACM Web Conference) (19)
 
@@ -1205,6 +1205,11 @@ _ACM Web Science Conference_ · [venue site](https://www.websci.org/)
 - **Best Paper Award** — [Understanding the Roots of Radicalisation on Twitter](https://dl.acm.org/doi/10.1145/3201064.3201082) — Miriam Fernandez, Moizzah Asif, Harith Alani ([source](https://www.acm.org/conferences/best-paper-awards-2018))
 - **Best Paper Award** — [Third Party Tracking in the Mobile Ecosystem](https://dl.acm.org/doi/10.1145/3201064.3201089) — Reuben Binns, Ulrik Lyngs, Max Van Kleek, Jun Zhao, Timothy Libert, Nigel Shadbolt ([source](https://hcc.cs.ox.ac.uk/paper/2018/05/30/paper-3rd-party-tracking.html))
 - **Best Student Paper** — [Analyzing Right-wing YouTube Channels: Hate, Violence and Discrimination](https://dl.acm.org/doi/10.1145/3201064.3201081) — Raphael Ottoni, Evandro Cunha, Gabriel Magno, Pedro Bernardina, Wagner Meira Jr., Virgilio Almeida ([source](https://x.com/theofficialacm/status/1015223903453679617))
+
+### WEBSCI 2017
+
+- **Best Paper Award** — [The Ethical Challenges of Publishing Twitter Data for Research Dissemination](https://dl.acm.org/doi/10.1145/3091478.3091489) — Helena Webb, Marina Jirotka, Bernd Carsten Stahl, William Housley, Adam Edwards, Matthew Williams, Rob Procter, Omer Rana, Pete Burnap ([source](https://www.acm.org/conferences/best-paper-awards-2017))
+- **Best Student Paper** — [The Effect of Collective Attention on Controversial Debates on Social Media](https://dl.acm.org/doi/10.1145/3091478.3091486) — Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, Michael Mathioudakis ([source](https://www.acm.org/conferences/best-paper-awards-2017))
 
 ### WEBSCI 2015
 
