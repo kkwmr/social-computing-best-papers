@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_804 awards · 16 venues · 2015–2026 · last updated **2026-07-26**._
+_812 awards · 17 venues · 2015–2026 · last updated **2026-07-28**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -11,6 +11,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
 - [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (82)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (51)
+- [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (8)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (2)
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
 - [IC2S2](#ic2s2) — International Conference on Computational Social Science (13)
@@ -773,6 +774,20 @@ _ACM Conference on Designing Interactive Systems_ · [venue site](https://dl.acm
 ### DIS 2016
 
 - **Best Paper Award** — [Probing the Potential of Post-Anthropocentric 3D Printing](https://doi.org/10.1145/2901790.2901879) — Laura Devendorf, Abigail De Kosnik, Kate Mattingly, Kimiko Ryokai ([source](https://artfordorks.com/publications/))
+
+## FAccT
+_ACM Conference on Fairness, Accountability, and Transparency_ · [venue site](https://facctconference.org/)
+
+### FAccT 2026
+
+- **Best Paper Award** — [The DSA's Blind Spot: Algorithmic Audit of Advertising and Minor Profiling on TikTok](https://dl.acm.org/doi/10.1145/3805689.3812355) — Sara Solarova, Matej Mosnar, Matus Tibensky, Jan Jakubcik, Adrian Bindas, Simon Liska, Filip Hossner, Matúš Mesarčík, Ivan Srba ([source](https://facct-blog.github.io/2026-06-25/best-papers))
+- **Best Paper Award** — [A pipeline for enabling path-specific causal fairness in observational health data](https://dl.acm.org/doi/10.1145/3805689.3806507) — Aparajita Kashyap, Sara Matijevic, Noémie Elhadad, Steven A. Kushner, Shalmali Joshi ([source](https://facct-blog.github.io/2026-06-25/best-papers))
+- **Best Paper Award** — [Beyond Explanation: Evidentiary Rights for Algorithmic Accountability](https://dl.acm.org/doi/10.1145/3805689.3806532) — Matthew Stewart ([source](https://facct-blog.github.io/2026-06-25/best-papers))
+- **Honorable Mention** — [Putting the 'Practice' in Critical Technical Practice: A Decision-Making Pedagogy for the Public Interest Technology Clinic](https://dl.acm.org/doi/10.1145/3805689.3806542) — Lauren M. Chambers, Diag Davenport ([source](https://facct-blog.github.io/2026-06-25/best-papers))
+- **Honorable Mention** — [Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks](https://dl.acm.org/doi/10.1145/3805689.3806469) — Shira Gur-Arieh, Angelina Wang, Sina Fazelpour ([source](https://facct-blog.github.io/2026-06-25/best-papers))
+- **Honorable Mention** — [Making a Name for Myself: On Academic Naming Policies and their Impact](https://dl.acm.org/doi/10.1145/3805689.3806465) — A Pranav, Vagrant Gautam, Martin Mundt, Jordan Taylor, Arjun Subramonian, Franziska Sofia Hafner, Daniel Chechelnitsky, William Agnew, Anne Lauscher ([source](https://facct-blog.github.io/2026-06-25/best-papers))
+- **Honorable Mention** — [Do User-Aligned Explanations Steer Human Decisions? Context-Dependent Influence and Ethical Implications](https://dl.acm.org/doi/10.1145/3805689.3812288) — Mingzhe Yang, Rina Kagawa, Yukino Baba ([source](https://facct-blog.github.io/2026-06-25/best-papers))
+- **Honorable Mention** — [A Dual Role Collision: How Generative AI's Intertwining Productivity Support and Social Support Reshape Indie Game Developers' Creative Work](https://dl.acm.org/doi/10.1145/3805689.3812248) — Ruchi Panchanadikar, Yang Hu, Guo Freeman ([source](https://facct-blog.github.io/2026-06-25/best-papers))
 
 ## GROUP
 _ACM International Conference on Supporting Group Work_ · [venue site](https://dl.acm.org/conference/group)

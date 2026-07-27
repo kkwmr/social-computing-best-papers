@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-26",
-  "count": 804,
+  "lastUpdated": "2026-07-28",
+  "count": 812,
   "venues": [
     {
       "name": "CHI",
@@ -86,6 +86,11 @@
       "name": "AAMAS",
       "long": "International Conference on Autonomous Agents and Multiagent Systems",
       "link": "https://www.aamas-conference.org/"
+    },
+    {
+      "name": "FAccT",
+      "long": "ACM Conference on Fairness, Accountability, and Transparency",
+      "link": "https://facctconference.org/"
     }
   ],
   "awards": [
@@ -1119,6 +1124,102 @@
       "author": "Sarah Dunn, Bettina Weber, David Studer, Areti Manataki, Lia Bally, Benjamin Bach, Tara Capel",
       "link": "https://doi.org/10.1145/3800645.3812943",
       "source": "https://dis.acm.org/2026/dis-2026-awards-and-recognition/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2026,
+      "place": "Montréal, Canada",
+      "date": "June 25-28, 2026",
+      "award": "Best Paper Award",
+      "title": "The DSA's Blind Spot: Algorithmic Audit of Advertising and Minor Profiling on TikTok",
+      "author": "Sara Solarova, Matej Mosnar, Matus Tibensky, Jan Jakubcik, Adrian Bindas, Simon Liska, Filip Hossner, Matúš Mesarčík, Ivan Srba",
+      "link": "https://dl.acm.org/doi/10.1145/3805689.3812355",
+      "source": "https://facct-blog.github.io/2026-06-25/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2026,
+      "place": "Montréal, Canada",
+      "date": "June 25-28, 2026",
+      "award": "Best Paper Award",
+      "title": "A pipeline for enabling path-specific causal fairness in observational health data",
+      "author": "Aparajita Kashyap, Sara Matijevic, Noémie Elhadad, Steven A. Kushner, Shalmali Joshi",
+      "link": "https://dl.acm.org/doi/10.1145/3805689.3806507",
+      "source": "https://facct-blog.github.io/2026-06-25/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2026,
+      "place": "Montréal, Canada",
+      "date": "June 25-28, 2026",
+      "award": "Best Paper Award",
+      "title": "Beyond Explanation: Evidentiary Rights for Algorithmic Accountability",
+      "author": "Matthew Stewart",
+      "link": "https://dl.acm.org/doi/10.1145/3805689.3806532",
+      "source": "https://facct-blog.github.io/2026-06-25/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2026,
+      "place": "Montréal, Canada",
+      "date": "June 25-28, 2026",
+      "award": "Honorable Mention",
+      "title": "Putting the 'Practice' in Critical Technical Practice: A Decision-Making Pedagogy for the Public Interest Technology Clinic",
+      "author": "Lauren M. Chambers, Diag Davenport",
+      "link": "https://dl.acm.org/doi/10.1145/3805689.3806542",
+      "source": "https://facct-blog.github.io/2026-06-25/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2026,
+      "place": "Montréal, Canada",
+      "date": "June 25-28, 2026",
+      "award": "Honorable Mention",
+      "title": "Ambiguity Collapse by LLMs: A Taxonomy of Epistemic Risks",
+      "author": "Shira Gur-Arieh, Angelina Wang, Sina Fazelpour",
+      "link": "https://dl.acm.org/doi/10.1145/3805689.3806469",
+      "source": "https://facct-blog.github.io/2026-06-25/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2026,
+      "place": "Montréal, Canada",
+      "date": "June 25-28, 2026",
+      "award": "Honorable Mention",
+      "title": "Making a Name for Myself: On Academic Naming Policies and their Impact",
+      "author": "A Pranav, Vagrant Gautam, Martin Mundt, Jordan Taylor, Arjun Subramonian, Franziska Sofia Hafner, Daniel Chechelnitsky, William Agnew, Anne Lauscher",
+      "link": "https://dl.acm.org/doi/10.1145/3805689.3806465",
+      "source": "https://facct-blog.github.io/2026-06-25/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2026,
+      "place": "Montréal, Canada",
+      "date": "June 25-28, 2026",
+      "award": "Honorable Mention",
+      "title": "Do User-Aligned Explanations Steer Human Decisions? Context-Dependent Influence and Ethical Implications",
+      "author": "Mingzhe Yang, Rina Kagawa, Yukino Baba",
+      "link": "https://dl.acm.org/doi/10.1145/3805689.3812288",
+      "source": "https://facct-blog.github.io/2026-06-25/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2026,
+      "place": "Montréal, Canada",
+      "date": "June 25-28, 2026",
+      "award": "Honorable Mention",
+      "title": "A Dual Role Collision: How Generative AI's Intertwining Productivity Support and Social Support Reshape Indie Game Developers' Creative Work",
+      "author": "Ruchi Panchanadikar, Yang Hu, Guo Freeman",
+      "link": "https://dl.acm.org/doi/10.1145/3805689.3812248",
+      "source": "https://facct-blog.github.io/2026-06-25/best-papers",
       "areas": "HCI"
     },
     {
