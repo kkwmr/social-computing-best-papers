@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-07-28",
-  "count": 812,
+  "lastUpdated": "2026-08-02",
+  "count": 818,
   "venues": [
     {
       "name": "CHI",
@@ -2168,6 +2168,78 @@
       "author": "Sai Siddartha Maram, Yash Malegaonkar, Niveditha Dudyala, Mário Escarce Junior, Magy Seif El-Nasr",
       "link": "https://dl.acm.org/doi/10.1145/3715336.3735764",
       "source": "https://engineering.ucsc.edu/news/2025-awards-and-accolades/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2025,
+      "place": "Athens, Greece",
+      "date": "June 23-26, 2025",
+      "award": "Best Paper Award",
+      "title": "\"You Cannot Sound Like GPT\": Signs of language discrimination and resistance in computer science publishing",
+      "author": "Haley Lepp, Daniel Scott Smith",
+      "link": "https://dl.acm.org/doi/10.1145/3715275.3732202",
+      "source": "https://facct-blog.github.io/2025-06-20/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2025,
+      "place": "Athens, Greece",
+      "date": "June 23-26, 2025",
+      "award": "Best Paper Award",
+      "title": "External Evaluation of Discrimination Mitigation Efforts in Meta's Ad Delivery",
+      "author": "Basileal Imana, Zeyu Shen, John S. Heidemann, Aleksandra Korolova",
+      "link": "https://dl.acm.org/doi/10.1145/3715275.3732170",
+      "source": "https://facct-blog.github.io/2025-06-20/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2025,
+      "place": "Athens, Greece",
+      "date": "June 23-26, 2025",
+      "award": "Best Paper Award",
+      "title": "A Framework for Auditing Chatbots for Dialect-Based Quality of Service Harms",
+      "author": "Emma Harvey, René F. Kizilcec, Allison Koenecke",
+      "link": "https://dl.acm.org/doi/10.1145/3715275.3732137",
+      "source": "https://facct-blog.github.io/2025-06-20/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2025,
+      "place": "Athens, Greece",
+      "date": "June 23-26, 2025",
+      "award": "Honorable Mention",
+      "title": "Auditing the Audits: Lessons for Algorithmic Accountability from Local Law 144's Bias Audits",
+      "author": "Marissa Kumar Gerchick, Ro Encarnación, Cole Tanigawa-Lau, Lena Armstrong, Ana Gutiérrez, Danaë Metaxa",
+      "link": "https://dl.acm.org/doi/10.1145/3715275.3732004",
+      "source": "https://facct-blog.github.io/2025-06-20/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2025,
+      "place": "Athens, Greece",
+      "date": "June 23-26, 2025",
+      "award": "Honorable Mention",
+      "title": "WEIRD Audits? Research Trends, Linguistic and Geographical Disparities in the Algorithm Audits of Online Platforms - A Systematic Literature Review",
+      "author": "Aleksandra Urman, Mykola Makhortykh, Aniko Hannak",
+      "link": "https://dl.acm.org/doi/10.1145/3715275.3732026",
+      "source": "https://facct-blog.github.io/2025-06-20/best-papers",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2025,
+      "place": "Athens, Greece",
+      "date": "June 23-26, 2025",
+      "award": "Honorable Mention",
+      "title": "The World Wide Recipe: A Community-Centred Framework for Fine-Grained Data Collection and Regional Bias Operationalisation",
+      "author": "Jabez Magomere, Shu Ishida, Tejumade Afonja, Aya Salama, Daniel Kochin, Foutse Yuehgoh, Imane Hamzaoui, Raesetje Sefala, Aisha Alaagib, Samantha Dalal, Beatrice Marchegiani, Elizaveta Semenova, Lauren Crais, Siobhan Mackenzie Hall",
+      "link": "https://dl.acm.org/doi/10.1145/3715275.3732019",
+      "source": "https://facct-blog.github.io/2025-06-20/best-papers",
       "areas": "HCI"
     },
     {

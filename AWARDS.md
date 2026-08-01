@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_812 awards · 17 venues · 2015–2026 · last updated **2026-07-28**._
+_818 awards · 17 venues · 2015–2026 · last updated **2026-08-02**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -11,7 +11,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
 - [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (82)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (51)
-- [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (8)
+- [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (14)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (2)
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
 - [IC2S2](#ic2s2) — International Conference on Computational Social Science (13)
@@ -788,6 +788,15 @@ _ACM Conference on Fairness, Accountability, and Transparency_ · [venue site](h
 - **Honorable Mention** — [Making a Name for Myself: On Academic Naming Policies and their Impact](https://dl.acm.org/doi/10.1145/3805689.3806465) — A Pranav, Vagrant Gautam, Martin Mundt, Jordan Taylor, Arjun Subramonian, Franziska Sofia Hafner, Daniel Chechelnitsky, William Agnew, Anne Lauscher ([source](https://facct-blog.github.io/2026-06-25/best-papers))
 - **Honorable Mention** — [Do User-Aligned Explanations Steer Human Decisions? Context-Dependent Influence and Ethical Implications](https://dl.acm.org/doi/10.1145/3805689.3812288) — Mingzhe Yang, Rina Kagawa, Yukino Baba ([source](https://facct-blog.github.io/2026-06-25/best-papers))
 - **Honorable Mention** — [A Dual Role Collision: How Generative AI's Intertwining Productivity Support and Social Support Reshape Indie Game Developers' Creative Work](https://dl.acm.org/doi/10.1145/3805689.3812248) — Ruchi Panchanadikar, Yang Hu, Guo Freeman ([source](https://facct-blog.github.io/2026-06-25/best-papers))
+
+### FAccT 2025
+
+- **Best Paper Award** — ["You Cannot Sound Like GPT": Signs of language discrimination and resistance in computer science publishing](https://dl.acm.org/doi/10.1145/3715275.3732202) — Haley Lepp, Daniel Scott Smith ([source](https://facct-blog.github.io/2025-06-20/best-papers))
+- **Best Paper Award** — [External Evaluation of Discrimination Mitigation Efforts in Meta's Ad Delivery](https://dl.acm.org/doi/10.1145/3715275.3732170) — Basileal Imana, Zeyu Shen, John S. Heidemann, Aleksandra Korolova ([source](https://facct-blog.github.io/2025-06-20/best-papers))
+- **Best Paper Award** — [A Framework for Auditing Chatbots for Dialect-Based Quality of Service Harms](https://dl.acm.org/doi/10.1145/3715275.3732137) — Emma Harvey, René F. Kizilcec, Allison Koenecke ([source](https://facct-blog.github.io/2025-06-20/best-papers))
+- **Honorable Mention** — [Auditing the Audits: Lessons for Algorithmic Accountability from Local Law 144's Bias Audits](https://dl.acm.org/doi/10.1145/3715275.3732004) — Marissa Kumar Gerchick, Ro Encarnación, Cole Tanigawa-Lau, Lena Armstrong, Ana Gutiérrez, Danaë Metaxa ([source](https://facct-blog.github.io/2025-06-20/best-papers))
+- **Honorable Mention** — [WEIRD Audits? Research Trends, Linguistic and Geographical Disparities in the Algorithm Audits of Online Platforms - A Systematic Literature Review](https://dl.acm.org/doi/10.1145/3715275.3732026) — Aleksandra Urman, Mykola Makhortykh, Aniko Hannak ([source](https://facct-blog.github.io/2025-06-20/best-papers))
+- **Honorable Mention** — [The World Wide Recipe: A Community-Centred Framework for Fine-Grained Data Collection and Regional Bias Operationalisation](https://dl.acm.org/doi/10.1145/3715275.3732019) — Jabez Magomere, Shu Ishida, Tejumade Afonja, Aya Salama, Daniel Kochin, Foutse Yuehgoh, Imane Hamzaoui, Raesetje Sefala, Aisha Alaagib, Samantha Dalal, Beatrice Marchegiani, Elizaveta Semenova, Lauren Crais, Siobhan Mackenzie Hall ([source](https://facct-blog.github.io/2025-06-20/best-papers))
 
 ## GROUP
 _ACM International Conference on Supporting Group Work_ · [venue site](https://dl.acm.org/conference/group)
