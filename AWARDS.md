@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_818 awards · 17 venues · 2015–2026 · last updated **2026-08-02**._
+_818 awards · 17 venues · 2015–2026 · last updated **2026-08-04**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -1112,12 +1112,12 @@ _ACM Symposium on User Interface Software and Technology_ · [venue site](https:
 
 ### UIST 2025
 
-- **Best Paper Award** — ProForm: Solder-Free Circuit Assembly Using Thermoforming — Narjes Pourjafarian, Zhenming Yang, Jeffrey Ian Lipton, Benyamin Davaji, Gregory D. Abowd ([source](https://uist.acm.org/2025/awards/))
-- **Best Paper Award** — DissolvPCB: Fully Recyclable 3D-Printed Electronics with Liquid Metal Conductors and PVA Substrates — Zeyu Yan, Su Hwan Hong, Josiah Hester, Tingyu Cheng, Huaishu Peng ([source](https://uist.acm.org/2025/awards/))
-- **Best Paper Award** — Reality Promises: Virtual-Physical Decoupling Illusions in Mixed Reality via Invisible Mobile Robots — Mohamed Kari, Parastoo Abtahi ([source](https://uist.acm.org/2025/awards/))
-- **Best Paper Award** — Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing — Jiaju Ma, Chau Vu, Asya Lyubavina, Catherine Liu, Jingyi Li ([source](https://uist.acm.org/2025/awards/))
-- **Best Paper Award** — Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications — Theia Henderson, David R. Karger, David D. Clark ([source](https://uist.acm.org/2025/awards/))
-- **Best Paper Award** — MorphingSkin: A Skin-like Platform that Integrates Multimodal Hydraulic Actuators Based on Flexible Electroosmotic Pumps — Tianyu Yu, Peisheng He, Bob Tianqi Wei, Chenyuheng Wang, Xueqing Li, Xuezhu Wang, Yao Lu, Wei Yue, Megan Teng, Zihan Wang, Liwei Lin, Haipeng Mi, Qi Lu, Lining Yao ([source](https://uist.acm.org/2025/awards/))
+- **Best Paper Award** — [ProForm: Solder-Free Circuit Assembly Using Thermoforming](https://dl.acm.org/doi/10.1145/3746059.3747628) — Narjes Pourjafarian, Zhenming Yang, Jeffrey Ian Lipton, Benyamin Davaji, Gregory D. Abowd ([source](https://uist.acm.org/2025/awards/))
+- **Best Paper Award** — [DissolvPCB: Fully Recyclable 3D-Printed Electronics with Liquid Metal Conductors and PVA Substrates](https://dl.acm.org/doi/10.1145/3746059.3747604) — Zeyu Yan, Su Hwan Hong, Josiah Hester, Tingyu Cheng, Huaishu Peng ([source](https://uist.acm.org/2025/awards/))
+- **Best Paper Award** — [Reality Promises: Virtual-Physical Decoupling Illusions in Mixed Reality via Invisible Mobile Robots](https://dl.acm.org/doi/10.1145/3746059.3747660) — Mohamed Kari, Parastoo Abtahi ([source](https://uist.acm.org/2025/awards/))
+- **Best Paper Award** — [Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing](https://dl.acm.org/doi/10.1145/3746059.3747605) — Jiaju Ma, Chau Vu, Asya Lyubavina, Catherine Liu, Jingyi Li ([source](https://uist.acm.org/2025/awards/))
+- **Best Paper Award** — [Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications](https://dl.acm.org/doi/10.1145/3746059.3747627) — Theia Henderson, David R. Karger, David D. Clark ([source](https://uist.acm.org/2025/awards/))
+- **Best Paper Award** — [MorphingSkin: A Skin-like Platform that Integrates Multimodal Hydraulic Actuators Based on Flexible Electroosmotic Pumps](https://dl.acm.org/doi/10.1145/3746059.3747685) — Tianyu Yu, Peisheng He, Bob Tianqi Wei, Chenyuheng Wang, Xueqing Li, Xuezhu Wang, Yao Lu, Wei Yue, Megan Teng, Zihan Wang, Liwei Lin, Haipeng Mi, Qi Lu, Lining Yao ([source](https://uist.acm.org/2025/awards/))
 
 ### UIST 2024
 

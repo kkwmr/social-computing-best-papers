@@ -4,7 +4,7 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-02",
+  "lastUpdated": "2026-08-04",
   "count": 818,
   "venues": [
     {
@@ -2322,7 +2322,7 @@
       "award": "Best Paper Award",
       "title": "ProForm: Solder-Free Circuit Assembly Using Thermoforming",
       "author": "Narjes Pourjafarian, Zhenming Yang, Jeffrey Ian Lipton, Benyamin Davaji, Gregory D. Abowd",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3746059.3747628",
       "source": "https://uist.acm.org/2025/awards/",
       "areas": "HCI"
     },
@@ -2334,7 +2334,7 @@
       "award": "Best Paper Award",
       "title": "DissolvPCB: Fully Recyclable 3D-Printed Electronics with Liquid Metal Conductors and PVA Substrates",
       "author": "Zeyu Yan, Su Hwan Hong, Josiah Hester, Tingyu Cheng, Huaishu Peng",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3746059.3747604",
       "source": "https://uist.acm.org/2025/awards/",
       "areas": "HCI"
     },
@@ -2346,7 +2346,7 @@
       "award": "Best Paper Award",
       "title": "Reality Promises: Virtual-Physical Decoupling Illusions in Mixed Reality via Invisible Mobile Robots",
       "author": "Mohamed Kari, Parastoo Abtahi",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3746059.3747660",
       "source": "https://uist.acm.org/2025/awards/",
       "areas": "HCI"
     },
@@ -2358,7 +2358,7 @@
       "award": "Best Paper Award",
       "title": "Computational Scaffolding of Composition, Value, and Color for Disciplined Drawing",
       "author": "Jiaju Ma, Chau Vu, Asya Lyubavina, Catherine Liu, Jingyi Li",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3746059.3747605",
       "source": "https://uist.acm.org/2025/awards/",
       "areas": "HCI"
     },
@@ -2370,7 +2370,7 @@
       "award": "Best Paper Award",
       "title": "Graffiti: Enabling an Ecosystem of Personalized and Interoperable Social Applications",
       "author": "Theia Henderson, David R. Karger, David D. Clark",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3746059.3747627",
       "source": "https://uist.acm.org/2025/awards/",
       "areas": "HCI"
     },
@@ -2382,7 +2382,7 @@
       "award": "Best Paper Award",
       "title": "MorphingSkin: A Skin-like Platform that Integrates Multimodal Hydraulic Actuators Based on Flexible Electroosmotic Pumps",
       "author": "Tianyu Yu, Peisheng He, Bob Tianqi Wei, Chenyuheng Wang, Xueqing Li, Xuezhu Wang, Yao Lu, Wei Yue, Megan Teng, Zihan Wang, Liwei Lin, Haipeng Mi, Qi Lu, Lining Yao",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3746059.3747685",
       "source": "https://uist.acm.org/2025/awards/",
       "areas": "HCI"
     },
