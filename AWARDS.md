@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_818 awards · 17 venues · 2015–2026 · last updated **2026-08-04**._
+_820 awards · 17 venues · 2015–2026 · last updated **2026-08-06**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -14,7 +14,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (14)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (2)
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
-- [IC2S2](#ic2s2) — International Conference on Computational Social Science (13)
+- [IC2S2](#ic2s2) — International Conference on Computational Social Science (15)
 - [ICWSM](#icwsm) — International AAAI Conference on Web and Social Media (17)
 - [IMWUT](#imwut) — ACM IMWUT / UbiComp (Interactive, Mobile, Wearable and Ubiquitous Technologies) (57)
 - [KDD](#kdd) — ACM SIGKDD Conference on Knowledge Discovery and Data Mining (34)
@@ -857,6 +857,8 @@ _International Conference on Computational Social Science_ · [venue site](https
 ### IC2S2 2025
 
 - **Best Parallel Talk** — [Augmenting the Availability of Historical GDP Per Capita Estimates Through Machine Learning](https://www.pnas.org/doi/10.1073/pnas.2402060121) — Philipp Koch, Viktor Stojkoski, Cesar A. Hidalgo ([source](https://ic2s2-2025.org/awards/))
+- **Best Lightning Talk** — [Algorithmic Amplification in China: How Platforms Boost State Visibility](https://doi.org/10.1093/joc/jqag010) — Yingdan Lu, Xinyi Liu, Carl Zhou ([source](https://ic2s2-2025.org/awards/))
+- **Best Poster** — [A Model to Identify Manipulative Language](https://ic2s2-2025.org/awards/) — Diletta Goglia, Davide Vega, Ece Calikus
 
 ### IC2S2 2024
 

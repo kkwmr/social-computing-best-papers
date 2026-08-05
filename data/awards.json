@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-04",
-  "count": 818,
+  "lastUpdated": "2026-08-06",
+  "count": 820,
   "venues": [
     {
       "name": "CHI",
@@ -2251,6 +2251,30 @@
       "title": "Augmenting the Availability of Historical GDP Per Capita Estimates Through Machine Learning",
       "author": "Philipp Koch, Viktor Stojkoski, Cesar A. Hidalgo",
       "link": "https://www.pnas.org/doi/10.1073/pnas.2402060121",
+      "source": "https://ic2s2-2025.org/awards/",
+      "areas": "SC"
+    },
+    {
+      "venue": "IC2S2",
+      "year": 2025,
+      "place": "Norrkoping, Sweden",
+      "date": "July 22-24, 2025",
+      "award": "Best Lightning Talk",
+      "title": "Algorithmic Amplification in China: How Platforms Boost State Visibility",
+      "author": "Yingdan Lu, Xinyi Liu, Carl Zhou",
+      "link": "https://doi.org/10.1093/joc/jqag010",
+      "source": "https://ic2s2-2025.org/awards/",
+      "areas": "SC"
+    },
+    {
+      "venue": "IC2S2",
+      "year": 2025,
+      "place": "Norrkoping, Sweden",
+      "date": "July 22-24, 2025",
+      "award": "Best Poster",
+      "title": "A Model to Identify Manipulative Language",
+      "author": "Diletta Goglia, Davide Vega, Ece Calikus",
+      "link": "https://ic2s2-2025.org/awards/",
       "source": "https://ic2s2-2025.org/awards/",
       "areas": "SC"
     },
