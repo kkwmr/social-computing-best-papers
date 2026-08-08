@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_820 awards · 17 venues · 2015–2026 · last updated **2026-08-06**._
+_826 awards · 17 venues · 2015–2026 · last updated **2026-08-09**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -11,7 +11,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
 - [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (82)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (51)
-- [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (14)
+- [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (20)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (2)
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
 - [IC2S2](#ic2s2) — International Conference on Computational Social Science (15)
@@ -797,6 +797,15 @@ _ACM Conference on Fairness, Accountability, and Transparency_ · [venue site](h
 - **Honorable Mention** — [Auditing the Audits: Lessons for Algorithmic Accountability from Local Law 144's Bias Audits](https://dl.acm.org/doi/10.1145/3715275.3732004) — Marissa Kumar Gerchick, Ro Encarnación, Cole Tanigawa-Lau, Lena Armstrong, Ana Gutiérrez, Danaë Metaxa ([source](https://facct-blog.github.io/2025-06-20/best-papers))
 - **Honorable Mention** — [WEIRD Audits? Research Trends, Linguistic and Geographical Disparities in the Algorithm Audits of Online Platforms - A Systematic Literature Review](https://dl.acm.org/doi/10.1145/3715275.3732026) — Aleksandra Urman, Mykola Makhortykh, Aniko Hannak ([source](https://facct-blog.github.io/2025-06-20/best-papers))
 - **Honorable Mention** — [The World Wide Recipe: A Community-Centred Framework for Fine-Grained Data Collection and Regional Bias Operationalisation](https://dl.acm.org/doi/10.1145/3715275.3732019) — Jabez Magomere, Shu Ishida, Tejumade Afonja, Aya Salama, Daniel Kochin, Foutse Yuehgoh, Imane Hamzaoui, Raesetje Sefala, Aisha Alaagib, Samantha Dalal, Beatrice Marchegiani, Elizaveta Semenova, Lauren Crais, Siobhan Mackenzie Hall ([source](https://facct-blog.github.io/2025-06-20/best-papers))
+
+### FAccT 2024
+
+- **Best Paper Award** — [Learning about Responsible AI On-The-Job: Learning Pathways, Orientations, and Aspirations](https://dl.acm.org/doi/10.1145/3630106.3658988) — Michael Madaio, Shivani Kapania, Rida Qadri, Ding Wang, Andrew Zaldivar, Remi Denton, Lauren Wilcox ([source](https://x.com/FAccTConference/status/1798112019708535141))
+- **Best Paper Award** — [Akal Badi ya Bias: An Exploratory Study of Gender Bias in Hindi Language Technology](https://dl.acm.org/doi/10.1145/3630106.3659017) — Rishav Hada, Safiya Husain, Varun Gumma, Harshita Diddee, Aditya Yadavalli, Agrima Seth, Nidhi Kulkarni, Ujwal Gadiraju, Aditya Vashistha, Vivek Seshadri, Kalika Bali ([source](https://x.com/FAccTConference/status/1798112019708535141))
+- **Best Paper Award** — [Algorithmic Pluralism: A Structural Approach To Equal Opportunity](https://dl.acm.org/doi/10.1145/3630106.3658899) — Shomik Jain, Vinith M. Suriyakumar, Kathleen Creel, Ashia Wilson ([source](https://x.com/FAccTConference/status/1798112019708535141))
+- **Best Paper Award** — [Real Risks of Fake Data: Synthetic Data, Diversity-Washing and Consent Circumvention](https://dl.acm.org/doi/10.1145/3630106.3659002) — Cedric Deslandes Whitney, Justin Norman ([source](https://x.com/FAccTConference/status/1798112019708535141))
+- **Best Paper Award** — [Auditing Work: Exploring the New York City algorithmic bias audit regime](https://dl.acm.org/doi/10.1145/3630106.3658959) — Lara Groves, Jacob Metcalf, Alayna Kennedy, Briana Vecchione, Andrew Strait ([source](https://x.com/FAccTConference/status/1798112019708535141))
+- **Best Paper Award** — [Recommend Me? Designing Fairness Metrics with Providers](https://dl.acm.org/doi/10.1145/3630106.3659044) — Jessie J. Smith, Aishwarya Satwani, Robin Burke, Casey Fiesler ([source](https://x.com/FAccTConference/status/1798112019708535141))
 
 ## GROUP
 _ACM International Conference on Supporting Group Work_ · [venue site](https://dl.acm.org/conference/group)

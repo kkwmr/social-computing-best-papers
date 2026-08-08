@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-06",
-  "count": 820,
+  "lastUpdated": "2026-08-09",
+  "count": 826,
   "venues": [
     {
       "name": "CHI",
@@ -3128,6 +3128,78 @@
       "author": "Tove Grimstad Bang, Sarah Fdili Alaoui, Guro Tyse, Elisabeth Schwartz, Frederic Bevilacqua",
       "link": "https://doi.org/10.1145/3643834.3661607",
       "source": "https://dis.acm.org/2024/best-papers-at-dis2024/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2024,
+      "place": "Rio de Janeiro, Brazil",
+      "date": "June 3-6, 2024",
+      "award": "Best Paper Award",
+      "title": "Learning about Responsible AI On-The-Job: Learning Pathways, Orientations, and Aspirations",
+      "author": "Michael Madaio, Shivani Kapania, Rida Qadri, Ding Wang, Andrew Zaldivar, Remi Denton, Lauren Wilcox",
+      "link": "https://dl.acm.org/doi/10.1145/3630106.3658988",
+      "source": "https://x.com/FAccTConference/status/1798112019708535141",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2024,
+      "place": "Rio de Janeiro, Brazil",
+      "date": "June 3-6, 2024",
+      "award": "Best Paper Award",
+      "title": "Akal Badi ya Bias: An Exploratory Study of Gender Bias in Hindi Language Technology",
+      "author": "Rishav Hada, Safiya Husain, Varun Gumma, Harshita Diddee, Aditya Yadavalli, Agrima Seth, Nidhi Kulkarni, Ujwal Gadiraju, Aditya Vashistha, Vivek Seshadri, Kalika Bali",
+      "link": "https://dl.acm.org/doi/10.1145/3630106.3659017",
+      "source": "https://x.com/FAccTConference/status/1798112019708535141",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2024,
+      "place": "Rio de Janeiro, Brazil",
+      "date": "June 3-6, 2024",
+      "award": "Best Paper Award",
+      "title": "Algorithmic Pluralism: A Structural Approach To Equal Opportunity",
+      "author": "Shomik Jain, Vinith M. Suriyakumar, Kathleen Creel, Ashia Wilson",
+      "link": "https://dl.acm.org/doi/10.1145/3630106.3658899",
+      "source": "https://x.com/FAccTConference/status/1798112019708535141",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2024,
+      "place": "Rio de Janeiro, Brazil",
+      "date": "June 3-6, 2024",
+      "award": "Best Paper Award",
+      "title": "Real Risks of Fake Data: Synthetic Data, Diversity-Washing and Consent Circumvention",
+      "author": "Cedric Deslandes Whitney, Justin Norman",
+      "link": "https://dl.acm.org/doi/10.1145/3630106.3659002",
+      "source": "https://x.com/FAccTConference/status/1798112019708535141",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2024,
+      "place": "Rio de Janeiro, Brazil",
+      "date": "June 3-6, 2024",
+      "award": "Best Paper Award",
+      "title": "Auditing Work: Exploring the New York City algorithmic bias audit regime",
+      "author": "Lara Groves, Jacob Metcalf, Alayna Kennedy, Briana Vecchione, Andrew Strait",
+      "link": "https://dl.acm.org/doi/10.1145/3630106.3658959",
+      "source": "https://x.com/FAccTConference/status/1798112019708535141",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2024,
+      "place": "Rio de Janeiro, Brazil",
+      "date": "June 3-6, 2024",
+      "award": "Best Paper Award",
+      "title": "Recommend Me? Designing Fairness Metrics with Providers",
+      "author": "Jessie J. Smith, Aishwarya Satwani, Robin Burke, Casey Fiesler",
+      "link": "https://dl.acm.org/doi/10.1145/3630106.3659044",
+      "source": "https://x.com/FAccTConference/status/1798112019708535141",
       "areas": "HCI"
     },
     {
