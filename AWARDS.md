@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_826 awards · 17 venues · 2015–2026 · last updated **2026-08-09**._
+_827 awards · 17 venues · 2015–2026 · last updated **2026-08-11**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -18,7 +18,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [ICWSM](#icwsm) — International AAAI Conference on Web and Social Media (17)
 - [IMWUT](#imwut) — ACM IMWUT / UbiComp (Interactive, Mobile, Wearable and Ubiquitous Technologies) (57)
 - [KDD](#kdd) — ACM SIGKDD Conference on Knowledge Discovery and Data Mining (34)
-- [SOCINFO](#socinfo) — International Conference on Social Informatics (3)
+- [SOCINFO](#socinfo) — International Conference on Social Informatics (4)
 - [UIST](#uist) — ACM Symposium on User Interface Software and Technology (39)
 - [WEBSCI](#websci) — ACM Web Science Conference (21)
 - [WSDM](#wsdm) — ACM International Conference on Web Search and Data Mining (16)
@@ -1109,6 +1109,10 @@ _International Conference on Social Informatics_ · [venue site](https://www.dcs
 ### SOCINFO 2022
 
 - **Best Paper Award** — [Communities, Gateways, and Bridges: Measuring Attention Flow in the Reddit Political Sphere](https://link.springer.com/chapter/10.1007/978-3-031-19097-1_1) — Cesare Rollo, Gianmarco De Francisci Morales, Corrado Monti, Andre Panisson ([source](https://www.corradomonti.com/communities-gateways-and-bridges-measuring-attention-flow-in-the-reddit-political-sphere.html))
+
+### SOCINFO 2020
+
+- **Best Paper Runner-Up** — [Facebook Ads: Politics of Migration in Italy](https://doi.org/10.1007/978-3-030-60975-7_4) — Arthur Capozzi, Gianmarco De Francisci Morales, Yelena Mejova, Corrado Monti, André Panisson, Daniela Paolotti ([source](https://sites.google.com/site/yelenamejova/publications))
 
 ### SOCINFO 2019
 
