@@ -4,7 +4,7 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-11",
+  "lastUpdated": "2026-08-13",
   "count": 827,
   "venues": [
     {
@@ -6066,7 +6066,7 @@
       "award": "Best Paper Award",
       "title": "A Design Engineering Approach for Quantitatively Exploring Context-Aware Sentence Retrieval for Nonspeaking Individuals with Motor Disabilities",
       "author": "Per Ola Kristensson, James Lilley, Rolf Black, Annalu Waller",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376525",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6078,7 +6078,7 @@
       "award": "Best Paper Award",
       "title": "Articulating Experience: Reflections from Experts Applying Micro-Phenomenology to Design Research in HCI",
       "author": "Mirjana Prpa, Sarah Fdili-Alaoui, Thecla Schiphorst, Philippe Pasquier",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376664",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6090,7 +6090,7 @@
       "award": "Best Paper Award",
       "title": "Beyond the Prototype: Understanding the Challenge of Scaling Hardware Device Production",
       "author": "Rushil Khurana, Steve Hodges",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376761",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6102,7 +6102,7 @@
       "award": "Best Paper Award",
       "title": "Bug or Feature? Covert Impairments to Human Computer Interaction",
       "author": "John V. Monaco",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376832",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6114,7 +6114,7 @@
       "award": "Best Paper Award",
       "title": "Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI",
       "author": "Michael A. Madaio, Luke Stark, Jennifer Wortman Vaughan, Hanna Wallach",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376445",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6126,7 +6126,7 @@
       "award": "Best Paper Award",
       "title": "Color and Animation Preferences for a Light Band eHMI in Interactions Between Automated Vehicles and Pedestrians",
       "author": "Debargha Dey, Azra Habibovic, Bastian Pfleging, Marieke Martens, Jacques Terken",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376325",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6138,7 +6138,7 @@
       "award": "Best Paper Award",
       "title": "Connecting Distributed Families: Camera Work for Three-party Mobile Video Calls",
       "author": "Yumei Gan, Christian Greiffenhagen, Stuart Reeves",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376704",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6150,7 +6150,7 @@
       "award": "Best Paper Award",
       "title": "Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities",
       "author": "Narges Ashtari, Andrea Bunt, Joanna McGrenere, Michael Nebeling, Parmit K. Chilana",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376722",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },

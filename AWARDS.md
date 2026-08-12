@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_827 awards · 17 venues · 2015–2026 · last updated **2026-08-11**._
+_827 awards · 17 venues · 2015–2026 · last updated **2026-08-13**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -355,14 +355,14 @@ _ACM CHI Conference on Human Factors in Computing Systems_ · [venue site](https
 
 ### CHI 2020
 
-- **Best Paper Award** — A Design Engineering Approach for Quantitatively Exploring Context-Aware Sentence Retrieval for Nonspeaking Individuals with Motor Disabilities — Per Ola Kristensson, James Lilley, Rolf Black, Annalu Waller ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Articulating Experience: Reflections from Experts Applying Micro-Phenomenology to Design Research in HCI — Mirjana Prpa, Sarah Fdili-Alaoui, Thecla Schiphorst, Philippe Pasquier ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Beyond the Prototype: Understanding the Challenge of Scaling Hardware Device Production — Rushil Khurana, Steve Hodges ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Bug or Feature? Covert Impairments to Human Computer Interaction — John V. Monaco ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI — Michael A. Madaio, Luke Stark, Jennifer Wortman Vaughan, Hanna Wallach ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Color and Animation Preferences for a Light Band eHMI in Interactions Between Automated Vehicles and Pedestrians — Debargha Dey, Azra Habibovic, Bastian Pfleging, Marieke Martens, Jacques Terken ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Connecting Distributed Families: Camera Work for Three-party Mobile Video Calls — Yumei Gan, Christian Greiffenhagen, Stuart Reeves ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities — Narges Ashtari, Andrea Bunt, Joanna McGrenere, Michael Nebeling, Parmit K. Chilana ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [A Design Engineering Approach for Quantitatively Exploring Context-Aware Sentence Retrieval for Nonspeaking Individuals with Motor Disabilities](https://dl.acm.org/doi/10.1145/3313831.3376525) — Per Ola Kristensson, James Lilley, Rolf Black, Annalu Waller ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Articulating Experience: Reflections from Experts Applying Micro-Phenomenology to Design Research in HCI](https://dl.acm.org/doi/10.1145/3313831.3376664) — Mirjana Prpa, Sarah Fdili-Alaoui, Thecla Schiphorst, Philippe Pasquier ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Beyond the Prototype: Understanding the Challenge of Scaling Hardware Device Production](https://dl.acm.org/doi/10.1145/3313831.3376761) — Rushil Khurana, Steve Hodges ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Bug or Feature? Covert Impairments to Human Computer Interaction](https://dl.acm.org/doi/10.1145/3313831.3376832) — John V. Monaco ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Co-Designing Checklists to Understand Organizational Challenges and Opportunities around Fairness in AI](https://dl.acm.org/doi/10.1145/3313831.3376445) — Michael A. Madaio, Luke Stark, Jennifer Wortman Vaughan, Hanna Wallach ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Color and Animation Preferences for a Light Band eHMI in Interactions Between Automated Vehicles and Pedestrians](https://dl.acm.org/doi/10.1145/3313831.3376325) — Debargha Dey, Azra Habibovic, Bastian Pfleging, Marieke Martens, Jacques Terken ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Connecting Distributed Families: Camera Work for Three-party Mobile Video Calls](https://dl.acm.org/doi/10.1145/3313831.3376704) — Yumei Gan, Christian Greiffenhagen, Stuart Reeves ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Creating Augmented and Virtual Reality Applications: Current Practices, Challenges, and Opportunities](https://dl.acm.org/doi/10.1145/3313831.3376722) — Narges Ashtari, Andrea Bunt, Joanna McGrenere, Michael Nebeling, Parmit K. Chilana ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Critical Race Theory for HCI — Ihudiya Finda Ogbonnaya-Ogburu, Angela D.R. Smith, Alexandra To, Kentaro Toyama ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Design Study "Lite" Methodology: Expediting Design Studies and Enabling the Synergy of Visualization Pedagogy and Social Good — Uzma Haque Syeda, Prasanth Murali, Lisa Roe, Becca Berkey, Michelle A. Borkin ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Designing Ambient Narrative-Based Interfaces to Reflect and Motivate Physical Activity — Elizabeth L. Murnane, Xin Jiang, Anna Kong, Michelle Park, Weili Shi, Connor Soohoo, Luke Vink, Iris Xia, Xin Yu, John Yang-Sammataro, Grace Young, Jenny Zhi, Paula Moya, James A. Landay ([source](https://jeffhuang.com/best_paper_awards/))
