@@ -4,7 +4,7 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-13",
+  "lastUpdated": "2026-08-16",
   "count": 827,
   "venues": [
     {
@@ -6162,7 +6162,7 @@
       "award": "Best Paper Award",
       "title": "Critical Race Theory for HCI",
       "author": "Ihudiya Finda Ogbonnaya-Ogburu, Angela D.R. Smith, Alexandra To, Kentaro Toyama",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376392",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6174,7 +6174,7 @@
       "award": "Best Paper Award",
       "title": "Design Study \"Lite\" Methodology: Expediting Design Studies and Enabling the Synergy of Visualization Pedagogy and Social Good",
       "author": "Uzma Haque Syeda, Prasanth Murali, Lisa Roe, Becca Berkey, Michelle A. Borkin",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376829",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6186,7 +6186,7 @@
       "award": "Best Paper Award",
       "title": "Designing Ambient Narrative-Based Interfaces to Reflect and Motivate Physical Activity",
       "author": "Elizabeth L. Murnane, Xin Jiang, Anna Kong, Michelle Park, Weili Shi, Connor Soohoo, Luke Vink, Iris Xia, Xin Yu, John Yang-Sammataro, Grace Young, Jenny Zhi, Paula Moya, James A. Landay",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376478",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6198,7 +6198,7 @@
       "award": "Best Paper Award",
       "title": "Designing and Evaluating Calmer, a Device for Simulating Maternal Skin-to-Skin Holding for Premature Infants",
       "author": "Sabrina Hauser, Melinda J. Suto, Liisa Holsti, Manon Ranger, Karon E. MacLean",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376539",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6210,7 +6210,7 @@
       "award": "Best Paper Award",
       "title": "Designing Clinical AAC Tablet Applications with Adults who have Mild Intellectual Disabilities",
       "author": "Ryan Colin Gibson, Mark D. Dunlop, Matt-Mouley Bouamrane, Revathy Nayar",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376159",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6222,7 +6222,7 @@
       "award": "Best Paper Award",
       "title": "Designing Trans Technology: Defining Challenges and Envisioning Community-Centered Solutions",
       "author": "Oliver L. Haimson, Dykee Gorrell, Denny L. Starks, Zu Weinger",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376669",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6234,7 +6234,7 @@
       "award": "Best Paper Award",
       "title": "Exploring How Game Genre in Student-Designed Games Influences Computational Thinking Development",
       "author": "Giovanni Maria Troiano, Qinyu Chen, Angela Vargas Alba, Gregorio Robles, Gillian Smith, Michael Cassidy, Eli Tucker-Raymond, Gillian Puttick, Casper Harteveld",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376755",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6246,7 +6246,7 @@
       "award": "Best Paper Award",
       "title": "Isness: Using Multi-Person VR to Design Peak Mystical Type Experiences Comparable to Psychedelics",
       "author": "David R. Glowacki, Mark D. Wonnacott, Rachel Freire, Becca R. Glowacki, Ella M. Gale, James E. Pike, Tiu de Haan, Mike Chatziapostolou, Oussama Metatla",
-      "link": "",
+      "link": "https://dl.acm.org/doi/10.1145/3313831.3376649",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
