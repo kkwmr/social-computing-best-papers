@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-16",
-  "count": 827,
+  "lastUpdated": "2026-08-18",
+  "count": 828,
   "venues": [
     {
       "name": "CHI",
@@ -3308,6 +3308,18 @@
       "author": "Qingyong Hu, Yuxuan Zhou, Qian Zhang",
       "link": "https://doi.org/10.1145/3699781",
       "source": "https://cse.hkust.edu.hk/News/UbiComp_ISWC2025/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "IMWUT",
+      "year": 2024,
+      "place": "",
+      "date": "",
+      "award": "IMWUT Distinguished Paper Award",
+      "title": "MagDesk: Interactive Tabletop Workspace Based on Passive Magnetic Tracking",
+      "author": "Kunpeng Huang, Yasha Iravantchi, Dongyao Chen, Alanson P. Sample",
+      "link": "https://doi.org/10.1145/3699756",
+      "source": "https://cse.engin.umich.edu/stories/cse-researchers-win-distinguished-paper-award-at-ubicomp-2025 (one of 8 IMWUT Volume 8 (2024) Distinguished Papers announced at UbiComp/ISWC 2025; DOI 10.1145/3699756, IMWUT Vol 8 Issue 4, author order per DBLP)",
       "areas": "HCI"
     },
     {

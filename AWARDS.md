@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_827 awards · 17 venues · 2015–2026 · last updated **2026-08-16**._
+_828 awards · 17 venues · 2015–2026 · last updated **2026-08-18**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -16,7 +16,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
 - [IC2S2](#ic2s2) — International Conference on Computational Social Science (15)
 - [ICWSM](#icwsm) — International AAAI Conference on Web and Social Media (17)
-- [IMWUT](#imwut) — ACM IMWUT / UbiComp (Interactive, Mobile, Wearable and Ubiquitous Technologies) (57)
+- [IMWUT](#imwut) — ACM IMWUT / UbiComp (Interactive, Mobile, Wearable and Ubiquitous Technologies) (58)
 - [KDD](#kdd) — ACM SIGKDD Conference on Knowledge Discovery and Data Mining (34)
 - [SOCINFO](#socinfo) — International Conference on Social Informatics (4)
 - [UIST](#uist) — ACM Symposium on User Interface Software and Technology (39)
@@ -951,6 +951,7 @@ _ACM IMWUT / UbiComp (Interactive, Mobile, Wearable and Ubiquitous Technologies)
 - **IMWUT Distinguished Paper Award** — [Capturing the College Experience: A Four-Year Mobile Sensing Study of Mental Health, Resilience and Behavior of College Students during the Pandemic](https://doi.org/10.1145/3643501) — Subigya Nepal, Wenjun Liu, Arvind Pillai, Weichen Wang, Vlado Vojdanovski, Jeremy F. Huckins, Courtney Rogers, Meghan L. Meyer, Andrew T. Campbell ([source](https://www.c4tbh.org/center-highlight/ctbhs-andrew-campbell-and-team-honored-with-imwut-vol-8-distinguished-paper-award/))
 - **IMWUT Distinguished Paper Award** — [NeuroCamTags: Long-Range, Battery-free, Wireless Sensing with Neuromorphic Cameras](https://doi.org/10.1145/3678529) — Danny Scott, Matthew Bringle, Imran Fahad, Gaddiel Morales, Azizul Zahid, Sai Swaminathan ([source](https://eecs.utk.edu/epic-lab-receives-acm-distinguished-paper-award/))
 - **Distinguished Paper Award** — [Contactless Arterial Blood Pressure Waveform Monitoring with mmWave Radar](https://doi.org/10.1145/3699781) — Qingyong Hu, Yuxuan Zhou, Qian Zhang ([source](https://cse.hkust.edu.hk/News/UbiComp_ISWC2025/))
+- **IMWUT Distinguished Paper Award** — [MagDesk: Interactive Tabletop Workspace Based on Passive Magnetic Tracking](https://doi.org/10.1145/3699756) — Kunpeng Huang, Yasha Iravantchi, Dongyao Chen, Alanson P. Sample ([source](https://cse.engin.umich.edu/stories/cse-researchers-win-distinguished-paper-award-at-ubicomp-2025))
 
 ### IMWUT 2023
 
