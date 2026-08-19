@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-18",
-  "count": 828,
+  "lastUpdated": "2026-08-20",
+  "count": 833,
   "venues": [
     {
       "name": "CHI",
@@ -6573,6 +6573,66 @@
       "link": "https://doi.org/10.1145/3392828",
       "source": "https://cscw.acm.org/2020/awards/",
       "areas": "SC"
+    },
+    {
+      "venue": "DIS",
+      "year": 2020,
+      "place": "",
+      "date": "",
+      "award": "Best Paper Award",
+      "title": "Participatory Memory Making: Creating Postcolonial Dialogic Engagements with Namibian Youth",
+      "author": "Asnath Paula Kambunga, Heike Winschiers-Theophilus, Rachel Charlotte Smith",
+      "link": "https://dl.acm.org/doi/10.1145/3357236.3395441",
+      "source": "https://www.acm.org/conferences/best-paper-awards-2020",
+      "areas": "HCI"
+    },
+    {
+      "venue": "DIS",
+      "year": 2020,
+      "place": "",
+      "date": "",
+      "award": "Best Paper Award",
+      "title": "Applying Ability-Based Design Principles to Adaptive Outdoor Activities",
+      "author": "Ahmad Alsaleem, Ross Imburgia, Andrew Merryweather, Jeffrey Rosenbluth, Stephen K. Trapp, Jason Wiese",
+      "link": "https://dl.acm.org/doi/10.1145/3357236.3395508",
+      "source": "https://pedel.cs.utah.edu/publications/1542-applying-ability-based-design-principles-to-adaptive-outdoor-activities",
+      "areas": "HCI"
+    },
+    {
+      "venue": "DIS",
+      "year": 2020,
+      "place": "",
+      "date": "",
+      "award": "Best Paper Award",
+      "title": "Co-Designing with Orangutans: Enhancing the Design of Enrichment for Animals",
+      "author": "Sarah Webber, Marcus Carter, Wally Smith, Frank Vetere",
+      "link": "https://dl.acm.org/doi/10.1145/3357236.3395559",
+      "source": "https://www.acm.org/conferences/best-paper-awards-2020",
+      "areas": "HCI"
+    },
+    {
+      "venue": "DIS",
+      "year": 2020,
+      "place": "",
+      "date": "",
+      "award": "Best Paper Award",
+      "title": "'Pataphysical Software: (Ridiculous) Technological Solutions for Imaginary Problems",
+      "author": "Miguel Sicart, Irina Shklovski",
+      "link": "https://dl.acm.org/doi/10.1145/3357236.3395526",
+      "source": "https://www.acm.org/conferences/best-paper-awards-2020",
+      "areas": "HCI"
+    },
+    {
+      "venue": "DIS",
+      "year": 2020,
+      "place": "",
+      "date": "",
+      "award": "Best Paper Award",
+      "title": "Overcoming Reserve - Supporting Professional Appropriation of Interactive Costumes",
+      "author": "Michaela Honauer, Danielle Wilde, Eva Hornecker",
+      "link": "https://dl.acm.org/doi/10.1145/3357236.3395498",
+      "source": "https://www.acm.org/conferences/best-paper-awards-2020",
+      "areas": "HCI"
     },
     {
       "venue": "HCOMP",

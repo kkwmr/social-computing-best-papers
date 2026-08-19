@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_828 awards · 17 venues · 2015–2026 · last updated **2026-08-18**._
+_833 awards · 17 venues · 2015–2026 · last updated **2026-08-20**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -10,7 +10,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [CHI](#chi) — ACM CHI Conference on Human Factors in Computing Systems (392)
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
 - [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (82)
-- [DIS](#dis) — ACM Conference on Designing Interactive Systems (51)
+- [DIS](#dis) — ACM Conference on Designing Interactive Systems (56)
 - [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (20)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (2)
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
@@ -750,6 +750,14 @@ _ACM Conference on Designing Interactive Systems_ · [venue site](https://dl.acm
 - **Best Paper Award** — [A Taxonomy of Sounds in Virtual Reality](https://dl.acm.org/doi/10.1145/3461778.3462106) — Dhruv Jain, Sasa Junuzovic, Eyal Ofek, Mike Sinclair, John R. Porter, Chris Yoon, Swetha Machanavajhala, Meredith Ringel Morris ([source](https://dis.acm.org/2021/papers-and-pictorials/))
 - **Best Paper Award** — [The Overlaps and Boundaries Between Service Design and User Experience Design](https://dl.acm.org/doi/10.1145/3461778.3462058) — Virpi Roto, Jung-Joo Lee, Effie Lai-Chong Law, John Zimmerman ([source](https://dis.acm.org/2021/papers-and-pictorials/))
 - **Best Paper Award / Diversity and Inclusion Award** — ["Why are they all obsessed with Gender?" — (Non)binary Navigations through Technological Infrastructures](https://dl.acm.org/doi/10.1145/3461778.3462033) — Katta Spiel ([source](https://dis.acm.org/2021/papers-and-pictorials/))
+
+### DIS 2020
+
+- **Best Paper Award** — [Participatory Memory Making: Creating Postcolonial Dialogic Engagements with Namibian Youth](https://dl.acm.org/doi/10.1145/3357236.3395441) — Asnath Paula Kambunga, Heike Winschiers-Theophilus, Rachel Charlotte Smith ([source](https://www.acm.org/conferences/best-paper-awards-2020))
+- **Best Paper Award** — [Applying Ability-Based Design Principles to Adaptive Outdoor Activities](https://dl.acm.org/doi/10.1145/3357236.3395508) — Ahmad Alsaleem, Ross Imburgia, Andrew Merryweather, Jeffrey Rosenbluth, Stephen K. Trapp, Jason Wiese ([source](https://pedel.cs.utah.edu/publications/1542-applying-ability-based-design-principles-to-adaptive-outdoor-activities))
+- **Best Paper Award** — [Co-Designing with Orangutans: Enhancing the Design of Enrichment for Animals](https://dl.acm.org/doi/10.1145/3357236.3395559) — Sarah Webber, Marcus Carter, Wally Smith, Frank Vetere ([source](https://www.acm.org/conferences/best-paper-awards-2020))
+- **Best Paper Award** — ['Pataphysical Software: (Ridiculous) Technological Solutions for Imaginary Problems](https://dl.acm.org/doi/10.1145/3357236.3395526) — Miguel Sicart, Irina Shklovski ([source](https://www.acm.org/conferences/best-paper-awards-2020))
+- **Best Paper Award** — [Overcoming Reserve - Supporting Professional Appropriation of Interactive Costumes](https://dl.acm.org/doi/10.1145/3357236.3395498) — Michaela Honauer, Danielle Wilde, Eva Hornecker ([source](https://www.acm.org/conferences/best-paper-awards-2020))
 
 ### DIS 2019
 
