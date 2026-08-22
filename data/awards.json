@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-20",
-  "count": 833,
+  "lastUpdated": "2026-08-23",
+  "count": 839,
   "venues": [
     {
       "name": "CHI",
@@ -4160,6 +4160,78 @@
       "author": "Gabriela Marcu, Jina Huh-Yoo",
       "link": "https://dl.acm.org/doi/10.1145/3563657.3596089",
       "source": "https://www.acm.org/conferences/best-paper-awards-2023",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2023,
+      "place": "Chicago, IL, USA",
+      "date": "June 12-15, 2023",
+      "award": "Best Paper Award",
+      "title": "Counterfactual Prediction Under Outcome Measurement Error",
+      "author": "Luke Guerdan, Amanda Coston, Kenneth Holstein, Zhiwei Steven Wu",
+      "link": "https://dl.acm.org/doi/10.1145/3593013.3594101",
+      "source": "https://lukeguerdan.com/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2023,
+      "place": "Chicago, IL, USA",
+      "date": "June 12-15, 2023",
+      "award": "Best Paper Award",
+      "title": "On The Impact of Machine Learning Randomness on Group Fairness",
+      "author": "Prakhar Ganesh, Hongyan Chang, Martin Strobel, Reza Shokri",
+      "link": "https://dl.acm.org/doi/10.1145/3593013.3594116",
+      "source": "https://www.comp.nus.edu.sg/news/2023-facct-award/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2023,
+      "place": "Chicago, IL, USA",
+      "date": "June 12-15, 2023",
+      "award": "Best Paper Award",
+      "title": "Preventing Discriminatory Decision-making in Evolving Data Streams",
+      "author": "Zichong Wang, Nripsuta Saxena, Tongjia Yu, Sneha Karki, Tyler Zetty, Israat Haque, Shan Zhou, Dukka Kc, Ian Stockwell, Xuyu Wang, Albert Bifet, Wenbin Zhang",
+      "link": "https://dl.acm.org/doi/10.1145/3593013.3593984",
+      "source": "https://blogs.mtu.edu/icc/2023/06/mtu-icc-paper-wins-best-paper-award-at-facct-2023/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2023,
+      "place": "Chicago, IL, USA",
+      "date": "June 12-15, 2023",
+      "award": "Best Paper Award",
+      "title": "Enhancing AI fairness through impact assessment in the European Union: a legal and computer science perspective",
+      "author": "Alessandra Calvi, Dimitris Kotzinos",
+      "link": "https://dl.acm.org/doi/10.1145/3593013.3594076",
+      "source": "https://www.etis-lab.fr/2023/06/20/acm-facct-best-paper-award/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2023,
+      "place": "Chicago, IL, USA",
+      "date": "June 12-15, 2023",
+      "award": "Best Paper Award",
+      "title": "Queer In AI: A Case Study in Community-Led Participatory AI",
+      "author": "Organizers of QueerInAI, Anaelia Ovalle, Arjun Subramonian, Ashwin Singh, Claas Voelcker, Danica J. Sutherland, Davide Locatelli, Eva Breznik, Filip Klubička, Hang Yuan, Hetvi J, Huan Zhang, Jaidev Shriram, Kruno Lehman, Luca Soldaini, Maarten Sap, Marc Peter Deisenroth, Maria Leonor Pacheco, Maria Ryskina, Martin Mundt, Milind Agarwal, Nyx McLean, Pan Xu, A Pranav, Raj Korpan, Ruchira Ray, Sarah Mathew, Sarthak Arora, ST John, Tanvi Anand, Vishakha Agrawal, William Agnew, Yanan Long, Zijie J. Wang, Zeerak Talat, Avijit Ghosh, Nathaniel Dennler, Michael Noseworthy, Sharvani Jha, Emi Baylor, Aditya Joshi, Natalia Y. Bilenko, Andrew McNamara, Raphael Gontijo-Lopes, Alex Markham, Evyn Dǒng, Jackie Kay, Manu Saraswat, Nikhil Vytla, Luke Stark",
+      "link": "https://dl.acm.org/doi/10.1145/3593013.3594134",
+      "source": "https://www.sml-group.cc/news/2023-06-15-facct-award/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2023,
+      "place": "Chicago, IL, USA",
+      "date": "June 12-15, 2023",
+      "award": "Best Paper Award",
+      "title": "The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government",
+      "author": "Arushi Gupta, Victor Y. Wu, Helen Webley-Brown",
+      "link": "https://dl.acm.org/doi/10.1145/3593013.3594015",
+      "source": "https://reglab.stanford.edu/2023/08/16/2023-facct-best-paper-award/",
       "areas": "HCI"
     },
     {
