@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_839 awards · 17 venues · 2015–2026 · last updated **2026-08-23**._
+_839 awards · 17 venues · 2015–2026 · last updated **2026-08-25**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -323,12 +323,12 @@ _ACM CHI Conference on Human Factors in Computing Systems_ · [venue site](https
 
 ### CHI 2021
 
-- **Best Paper Award** — What Do Hackathons Do? Understanding Participation in Hackathons Through Program Theory Analysis — Jeanette Falk, Gopinaath Kannabiran, Nicolai Brodersen Hansen ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Falx: Synthesis-Powered Visualization Authoring — Chenglong Wang, Yu Feng, Rastislav Bodik, Isil Dillig, Alvin Cheung, Amy J Ko ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [What Do Hackathons Do? Understanding Participation in Hackathons Through Program Theory Analysis](https://doi.org/10.1145/3411764.3445198) — Jeanette Falk, Gopinaath Kannabiran, Nicolai Brodersen Hansen ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Falx: Synthesis-Powered Visualization Authoring](https://doi.org/10.1145/3411764.3445249) — Chenglong Wang, Yu Feng, Rastislav Bodik, Isil Dillig, Alvin Cheung, Amy J Ko ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — "Can I Not Be Suicidal on a Sunday?": Understanding Technology-Mediated Pathways to Mental Health Support — Sachin R Pendse, Amit Sharma, Aditya Vashistha, Munmun De Choudhury, Neha Kumar ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — CapContact: Super-resolution Contact Areas from Capacitive Touchscreens — Paul Streli, Christian Holz ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniaturized Radar Sensor — Eiji Hayashi, Jaime Lien, Nicholas Gillian, Leonardo Giusti, Dave Weber, Jin Yamanaka, Lauren Bedal, Ivan Poupyrev ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels — Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa Yu, Qi Shan, Jeffrey Nichols, Jason Wu, Chris Fleizach, Aaron Everitt, Jeffrey P Bigham ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [CapContact: Super-resolution Contact Areas from Capacitive Touchscreens](https://doi.org/10.1145/3411764.3445621) — Paul Streli, Christian Holz ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniature Radar Sensor](https://doi.org/10.1145/3411764.3445367) — Eiji Hayashi, Jaime Lien, Nicholas Gillian, Leonardo Giusti, Dave Weber, Jin Yamanaka, Lauren Bedal, Ivan Poupyrev ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels](https://doi.org/10.1145/3411764.3445186) — Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa Yu, Qi Shan, Jeffrey Nichols, Jason Wu, Chris Fleizach, Aaron Everitt, Jeffrey P Bigham ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — LGBTQ Persons' Pregnancy Loss Disclosures to Known Ties on Social Media: Disclosure Decisions and Ideal Disclosure Environments — Cassidy Pyle, Lee Roosevelt, Ashley Lacombe-Duncan, Nazanin Andalibi ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Increasing Electrical Muscle Stimulation's Dexterity by means of Back of the Hand Actuation — Akifumi Takahashi, Jas Brooks, Hiroyuki Kajimoto, Pedro Lopes ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Designing Menstrual Technologies with Adolescents — Marie Louise Juul Sondergaard, Marianela Ciolfi Felice, Madeline Balaam ([source](https://jeffhuang.com/best_paper_awards/))
@@ -336,7 +336,7 @@ _ACM CHI Conference on Human Factors in Computing Systems_ · [venue site](https
 - **Best Paper Award** — Building for 'We': Safety Settings for Couples with Memory Concerns — Nora McDonald, Helena M. Mentis ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Oh, Snap! A Fabrication Pipeline to Magnetically Connect Conventional and 3D-Printed Electronics — Martin Schmitz, Jan Riemann, Florian Muller, Steffen Kreis, Max Muhlhauser ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Getting Ourselves Together: Data-centered participatory design research & epistemic burden — Jennifer Pierre, Roderic Crooks, Morgan Currie, Britt Paris, Irene Pasquetto ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — "Everyone wants to do the model work, not the data work": Data Cascades in High-Stakes AI — Nithya Sambasivan, Shivani Kapania, Hannah Highfill, Diana Akrong, Praveen Paritosh, Lora M Aroyo ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — ["Everyone wants to do the model work, not the data work": Data Cascades in High-Stakes AI](https://doi.org/10.1145/3411764.3445518) — Nithya Sambasivan, Shivani Kapania, Hannah Highfill, Diana Akrong, Praveen Paritosh, Lora M Aroyo ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Resisting the Medicalisation of Menopause: Reclaiming the Body through Design — Marianela Ciolfi Felice, Marie Louise Juul Sondergaard, Madeline Balaam ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — U!Scientist: Designing for People-Powered Research in Museums — Mmachi God'sglory Obiorah, James K.L. Hammerman, Becky Rother, Will Granger, Haley Margaret West, Michael Horn, Laura Trouille ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — "Why lose control?" A Study of Freelancers' Perspectives with Gig Economy Platforms — Juan Carlos Alvarez de la Vega, Marta E. Cecchinato, John Rooksby ([source](https://jeffhuang.com/best_paper_awards/))

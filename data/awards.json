@@ -4,7 +4,7 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-23",
+  "lastUpdated": "2026-08-25",
   "count": 839,
   "venues": [
     {
@@ -5298,7 +5298,7 @@
       "award": "Best Paper Award",
       "title": "What Do Hackathons Do? Understanding Participation in Hackathons Through Program Theory Analysis",
       "author": "Jeanette Falk, Gopinaath Kannabiran, Nicolai Brodersen Hansen",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445198",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5310,7 +5310,7 @@
       "award": "Best Paper Award",
       "title": "Falx: Synthesis-Powered Visualization Authoring",
       "author": "Chenglong Wang, Yu Feng, Rastislav Bodik, Isil Dillig, Alvin Cheung, Amy J Ko",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445249",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5334,7 +5334,7 @@
       "award": "Best Paper Award",
       "title": "CapContact: Super-resolution Contact Areas from Capacitive Touchscreens",
       "author": "Paul Streli, Christian Holz",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445621",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5344,9 +5344,9 @@
       "place": "",
       "date": "",
       "award": "Best Paper Award",
-      "title": "RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniaturized Radar Sensor",
+      "title": "RadarNet: Efficient Gesture Recognition Technique Utilizing a Miniature Radar Sensor",
       "author": "Eiji Hayashi, Jaime Lien, Nicholas Gillian, Leonardo Giusti, Dave Weber, Jin Yamanaka, Lauren Bedal, Ivan Poupyrev",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445367",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5358,7 +5358,7 @@
       "award": "Best Paper Award",
       "title": "Screen Recognition: Creating Accessibility Metadata for Mobile Applications from Pixels",
       "author": "Xiaoyi Zhang, Lilian de Greef, Amanda Swearngin, Samuel White, Kyle Murray, Lisa Yu, Qi Shan, Jeffrey Nichols, Jason Wu, Chris Fleizach, Aaron Everitt, Jeffrey P Bigham",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445186",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5454,7 +5454,7 @@
       "award": "Best Paper Award",
       "title": "\"Everyone wants to do the model work, not the data work\": Data Cascades in High-Stakes AI",
       "author": "Nithya Sambasivan, Shivani Kapania, Hannah Highfill, Diana Akrong, Praveen Paritosh, Lora M Aroyo",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445518",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
