@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_839 awards · 17 venues · 2015–2026 · last updated **2026-08-25**._
+_840 awards · 17 venues · 2015–2026 · last updated **2026-08-27**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -12,7 +12,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (82)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (56)
 - [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (26)
-- [GROUP](#group) — ACM International Conference on Supporting Group Work (2)
+- [GROUP](#group) — ACM International Conference on Supporting Group Work (3)
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
 - [IC2S2](#ic2s2) — International Conference on Computational Social Science (15)
 - [ICWSM](#icwsm) — International AAAI Conference on Web and Social Media (17)
@@ -826,6 +826,10 @@ _ACM Conference on Fairness, Accountability, and Transparency_ · [venue site](h
 
 ## GROUP
 _ACM International Conference on Supporting Group Work_ · [venue site](https://dl.acm.org/conference/group)
+
+### GROUP 2025
+
+- **Honorable Mention** — [Beyond Content: Leaning on the Poetics of Defamiliarization in Design Fictions](https://dl.acm.org/doi/10.1145/3701184) — Richard Zhang, Duri Long ([source](https://www.creativeinterfaces.northwestern.edu/2025/10/15/richard-zhang-awarded-honorable-mention-for-best-paper-at-group-2025/))
 
 ### GROUP 2023
 

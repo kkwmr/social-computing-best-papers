@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-25",
-  "count": 839,
+  "lastUpdated": "2026-08-27",
+  "count": 840,
   "venues": [
     {
       "name": "CHI",
@@ -2241,6 +2241,18 @@
       "link": "https://dl.acm.org/doi/10.1145/3715275.3732019",
       "source": "https://facct-blog.github.io/2025-06-20/best-papers",
       "areas": "HCI"
+    },
+    {
+      "venue": "GROUP",
+      "year": 2025,
+      "place": "",
+      "date": "",
+      "award": "Honorable Mention",
+      "title": "Beyond Content: Leaning on the Poetics of Defamiliarization in Design Fictions",
+      "author": "Richard Zhang, Duri Long",
+      "link": "https://dl.acm.org/doi/10.1145/3701184",
+      "source": "https://www.creativeinterfaces.northwestern.edu/2025/10/15/richard-zhang-awarded-honorable-mention-for-best-paper-at-group-2025/",
+      "areas": "SC"
     },
     {
       "venue": "IC2S2",
