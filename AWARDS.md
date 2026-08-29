@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_840 awards · 17 venues · 2015–2026 · last updated **2026-08-27**._
+_841 awards · 17 venues · 2015–2026 · last updated **2026-08-30**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -14,7 +14,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (26)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (3)
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
-- [IC2S2](#ic2s2) — International Conference on Computational Social Science (15)
+- [IC2S2](#ic2s2) — International Conference on Computational Social Science (16)
 - [ICWSM](#icwsm) — International AAAI Conference on Web and Social Media (17)
 - [IMWUT](#imwut) — ACM IMWUT / UbiComp (Interactive, Mobile, Wearable and Ubiquitous Technologies) (58)
 - [KDD](#kdd) — ACM SIGKDD Conference on Knowledge Discovery and Data Mining (34)
@@ -883,6 +883,10 @@ _AAAI Conference on Human Computation and Crowdsourcing_ · [venue site](https:/
 
 ## IC2S2
 _International Conference on Computational Social Science_ · [venue site](https://ic2s2.org/)
+
+### IC2S2 2026
+
+- **Best Poster** — [How women's empowerment combats national brain drain](https://www.sci.pitt.edu/news/recent-phd-graduate-receives-best-poster-award-ic2s2-2026) — Alireza Javadian Sabet, Junghyun Lim, Yixiao Li, Loujaina Abdelwahed, Lisa K. Simon, Morgan Frank
 
 ### IC2S2 2025
 

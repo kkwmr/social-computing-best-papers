@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-08-27",
-  "count": 840,
+  "lastUpdated": "2026-08-30",
+  "count": 841,
   "venues": [
     {
       "name": "CHI",
@@ -1221,6 +1221,18 @@
       "link": "https://dl.acm.org/doi/10.1145/3805689.3812248",
       "source": "https://facct-blog.github.io/2026-06-25/best-papers",
       "areas": "HCI"
+    },
+    {
+      "venue": "IC2S2",
+      "year": 2026,
+      "place": "Burlington, VT, USA",
+      "date": "July 28-31, 2026",
+      "award": "Best Poster",
+      "title": "How women's empowerment combats national brain drain",
+      "author": "Alireza Javadian Sabet, Junghyun Lim, Yixiao Li, Loujaina Abdelwahed, Lisa K. Simon, Morgan Frank",
+      "link": "https://www.sci.pitt.edu/news/recent-phd-graduate-receives-best-poster-award-ic2s2-2026",
+      "source": "https://www.sci.pitt.edu/news/recent-phd-graduate-receives-best-poster-award-ic2s2-2026",
+      "areas": "SC"
     },
     {
       "venue": "ICWSM",
