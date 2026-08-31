@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_841 awards · 17 venues · 2015–2026 · last updated **2026-08-30**._
+_843 awards · 17 venues · 2015–2026 · last updated **2026-09-01**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -20,7 +20,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [KDD](#kdd) — ACM SIGKDD Conference on Knowledge Discovery and Data Mining (34)
 - [SOCINFO](#socinfo) — International Conference on Social Informatics (4)
 - [UIST](#uist) — ACM Symposium on User Interface Software and Technology (39)
-- [WEBSCI](#websci) — ACM Web Science Conference (21)
+- [WEBSCI](#websci) — ACM Web Science Conference (23)
 - [WSDM](#wsdm) — ACM International Conference on Web Search and Data Mining (16)
 - [WWW](#www) — The Web Conference (ACM Web Conference) (19)
 
@@ -1275,6 +1275,11 @@ _ACM Web Science Conference_ · [venue site](https://www.websci.org/)
 
 - **Best Paper Award** — [The Ethical Challenges of Publishing Twitter Data for Research Dissemination](https://dl.acm.org/doi/10.1145/3091478.3091489) — Helena Webb, Marina Jirotka, Bernd Carsten Stahl, William Housley, Adam Edwards, Matthew Williams, Rob Procter, Omer Rana, Pete Burnap ([source](https://www.acm.org/conferences/best-paper-awards-2017))
 - **Best Student Paper** — [The Effect of Collective Attention on Controversial Debates on Social Media](https://dl.acm.org/doi/10.1145/3091478.3091486) — Kiran Garimella, Gianmarco De Francisci Morales, Aristides Gionis, Michael Mathioudakis ([source](https://www.acm.org/conferences/best-paper-awards-2017))
+
+### WEBSCI 2016
+
+- **Best Paper Award** — [Understanding Video-Ad Consumption on YouTube: A Measurement Study on User Behavior, Popularity, and Content Properties](https://dl.acm.org/doi/10.1145/2908131.2908159) — Mariana Arantes, Flavio Figueiredo, Jussara M. Almeida ([source](https://dl.acm.org/doi/10.1145/2956573.2956574))
+- **Best Paper Award** — [Identity Assurance in the UK: Technical Implementation and Legal Implications under the eIDAS Regulation](https://dl.acm.org/doi/10.1145/2908131.2908152) — Niko Tsakalakis, Kieron O'Hara, Sophie Stalla-Bourdillon ([source](https://dl.acm.org/doi/10.1145/2956573.2956574))
 
 ### WEBSCI 2015
 
