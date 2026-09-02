@@ -4,7 +4,7 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-09-01",
+  "lastUpdated": "2026-09-03",
   "count": 843,
   "venues": [
     {
@@ -4674,7 +4674,7 @@
       "award": "Best Paper Award",
       "title": "AirRacket: Perceptual Design of Ungrounded, Directional Force Feedback to Improve Virtual Racket Sports Experiences",
       "author": "Ching-Yi Tsai, I-Lun Tsai, Chao-Jung Lai, Derrek Chow, Lauren Wei, Lung-Pan Cheng, Mike Y. Chen",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3502034",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4686,7 +4686,7 @@
       "award": "Best Paper Award",
       "title": "Care Infrastructures for Digital Security in Intimate Partner Violence",
       "author": "Emily Tseng, Mehrnaz Sabet, Rosanna Bellini, Harkiran Kaur Sodhi, Thomas Ristenpart, Nicola Dell",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3502038",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4698,7 +4698,7 @@
       "award": "Best Paper Award",
       "title": "Causality-preserving Asynchronous Reality",
       "author": "Andreas Rene Fender, Christian Holz",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501836",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4710,7 +4710,7 @@
       "award": "Best Paper Award",
       "title": "Designing for the Bittersweet: Improving Sensitive Experiences with Recommender Systems",
       "author": "Caitlin Lustig, Artie Konrad, Jed R. Brubaker",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3502049",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4722,7 +4722,7 @@
       "award": "Best Paper Award",
       "title": "EmoBalloon - Conveying Emotional Arousal in Text Chats with Speech Balloons",
       "author": "Toshiki Aoki, Rintaro Chujo, Katsufumi Matsui, Saemi Choi, Ari Hautasaari",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501920",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4734,7 +4734,7 @@
       "award": "Best Paper Award",
       "title": "Including the Experiences of Physically Disabled Players in Mainstream Guidelines for Movement-Based Games",
       "author": "Liam Mason, Kathrin Gerling, Patrick Dickinson, Jussi Holopainen, Lisa Jacobs, Kieran Hicks",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501867",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4746,7 +4746,7 @@
       "award": "Best Paper Award",
       "title": "Interrupting Merit, Subverting Legibility: Navigating Caste In 'Casteless' Worlds of Computing",
       "author": "Palashi Vaghela, Steven Jackson, Phoebe Sengers",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3502059",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4758,7 +4758,7 @@
       "award": "Best Paper Award",
       "title": "Investigating Daily Practices of Self-care to Inform the Design of Supportive Health Technologies for Living and Ageing Well with HIV",
       "author": "Caroline Claisse, Bakita Kasadha, Simone Stumpf, Abigail C Durrant",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501970",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },

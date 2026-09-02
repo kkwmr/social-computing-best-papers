@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_843 awards · 17 venues · 2015–2026 · last updated **2026-09-01**._
+_843 awards · 17 venues · 2015–2026 · last updated **2026-09-03**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -295,14 +295,14 @@ _ACM CHI Conference on Human Factors in Computing Systems_ · [venue site](https
 
 ### CHI 2022
 
-- **Best Paper Award** — AirRacket: Perceptual Design of Ungrounded, Directional Force Feedback to Improve Virtual Racket Sports Experiences — Ching-Yi Tsai, I-Lun Tsai, Chao-Jung Lai, Derrek Chow, Lauren Wei, Lung-Pan Cheng, Mike Y. Chen ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Care Infrastructures for Digital Security in Intimate Partner Violence — Emily Tseng, Mehrnaz Sabet, Rosanna Bellini, Harkiran Kaur Sodhi, Thomas Ristenpart, Nicola Dell ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Causality-preserving Asynchronous Reality — Andreas Rene Fender, Christian Holz ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Designing for the Bittersweet: Improving Sensitive Experiences with Recommender Systems — Caitlin Lustig, Artie Konrad, Jed R. Brubaker ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — EmoBalloon - Conveying Emotional Arousal in Text Chats with Speech Balloons — Toshiki Aoki, Rintaro Chujo, Katsufumi Matsui, Saemi Choi, Ari Hautasaari ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Including the Experiences of Physically Disabled Players in Mainstream Guidelines for Movement-Based Games — Liam Mason, Kathrin Gerling, Patrick Dickinson, Jussi Holopainen, Lisa Jacobs, Kieran Hicks ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Interrupting Merit, Subverting Legibility: Navigating Caste In 'Casteless' Worlds of Computing — Palashi Vaghela, Steven Jackson, Phoebe Sengers ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Investigating Daily Practices of Self-care to Inform the Design of Supportive Health Technologies for Living and Ageing Well with HIV — Caroline Claisse, Bakita Kasadha, Simone Stumpf, Abigail C Durrant ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [AirRacket: Perceptual Design of Ungrounded, Directional Force Feedback to Improve Virtual Racket Sports Experiences](https://doi.org/10.1145/3491102.3502034) — Ching-Yi Tsai, I-Lun Tsai, Chao-Jung Lai, Derrek Chow, Lauren Wei, Lung-Pan Cheng, Mike Y. Chen ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Care Infrastructures for Digital Security in Intimate Partner Violence](https://doi.org/10.1145/3491102.3502038) — Emily Tseng, Mehrnaz Sabet, Rosanna Bellini, Harkiran Kaur Sodhi, Thomas Ristenpart, Nicola Dell ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Causality-preserving Asynchronous Reality](https://doi.org/10.1145/3491102.3501836) — Andreas Rene Fender, Christian Holz ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Designing for the Bittersweet: Improving Sensitive Experiences with Recommender Systems](https://doi.org/10.1145/3491102.3502049) — Caitlin Lustig, Artie Konrad, Jed R. Brubaker ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [EmoBalloon - Conveying Emotional Arousal in Text Chats with Speech Balloons](https://doi.org/10.1145/3491102.3501920) — Toshiki Aoki, Rintaro Chujo, Katsufumi Matsui, Saemi Choi, Ari Hautasaari ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Including the Experiences of Physically Disabled Players in Mainstream Guidelines for Movement-Based Games](https://doi.org/10.1145/3491102.3501867) — Liam Mason, Kathrin Gerling, Patrick Dickinson, Jussi Holopainen, Lisa Jacobs, Kieran Hicks ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Interrupting Merit, Subverting Legibility: Navigating Caste In 'Casteless' Worlds of Computing](https://doi.org/10.1145/3491102.3502059) — Palashi Vaghela, Steven Jackson, Phoebe Sengers ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Investigating Daily Practices of Self-care to Inform the Design of Supportive Health Technologies for Living and Ageing Well with HIV](https://doi.org/10.1145/3491102.3501970) — Caroline Claisse, Bakita Kasadha, Simone Stumpf, Abigail C Durrant ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Investigating the Tradeoffs of Everyday Text-Entry Collection Methods — Andre Rodrigues, Hugo Nicolau, Andre R.B. Santos, Diogo Branco, Jay Rainey, David Verweij, Jan David Smeddinck, Kyle Montague, Tiago Guerreiro ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Jury Learning: Integrating Dissenting Voices into Machine Learning Models — Mitchell L. Gordon, Michelle S. Lam, Joon Sung Park, Kayur Patel, Jeff Hancock, Tatsunori Hashimoto, Michael Bernstein ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — Math Augmentation: How Authors Enhance the Readability of Formulas using Novel Visual Design Practices — Andrew Head, Amber Xie, Marti Hearst ([source](https://jeffhuang.com/best_paper_awards/))
