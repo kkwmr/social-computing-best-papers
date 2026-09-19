@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-09-03",
-  "count": 843,
+  "lastUpdated": "2026-09-20",
+  "count": 847,
   "venues": [
     {
       "name": "CHI",
@@ -5036,6 +5036,54 @@
       "author": "Nuno N. Correia, Raul Masu, William Primett, Stephan Jurgens, Jochen Feitsch, Hugo Placido da Silva",
       "link": "https://doi.org/10.1145/3532106.3533467",
       "source": "https://www.it.pt/News/NewsPost/4786",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2022,
+      "place": "Seoul, Republic of Korea",
+      "date": "June 21-24, 2022",
+      "award": "Distinguished Paper Award",
+      "title": "The Values Encoded in Machine Learning Research",
+      "author": "Abeba Birhane, Pratyusha Kalluri, Dallas Card, William Agnew, Ravit Dotan, Michelle Bao",
+      "link": "https://dl.acm.org/doi/10.1145/3531146.3533083",
+      "source": "https://facctconference.org/2022/prizes.html",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2022,
+      "place": "Seoul, Republic of Korea",
+      "date": "June 21-24, 2022",
+      "award": "Distinguished Paper Award",
+      "title": "Fairness-aware Model-agnostic Positive and Unlabeled Learning",
+      "author": "Ziwei Wu, Jingrui He",
+      "link": "https://dl.acm.org/doi/10.1145/3531146.3533225",
+      "source": "https://facctconference.org/2022/prizes.html",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2022,
+      "place": "Seoul, Republic of Korea",
+      "date": "June 21-24, 2022",
+      "award": "Distinguished Student Paper Award",
+      "title": "Algorithmic Tools in Public Employment Services: Towards a Jobseeker-Centric Perspective",
+      "author": "Kristen M. Scott, Sonja Mei Wang, Milagros Miceli, Pieter Delobelle, Karolina Sztandar-Sztanderska, Bettina Berendt",
+      "link": "https://dl.acm.org/doi/10.1145/3531146.3534631",
+      "source": "https://facctconference.org/2022/prizes.html",
+      "areas": "HCI"
+    },
+    {
+      "venue": "FAccT",
+      "year": 2022,
+      "place": "Seoul, Republic of Korea",
+      "date": "June 21-24, 2022",
+      "award": "Distinguished Student Paper Award",
+      "title": "Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection",
+      "author": "Harini Suresh, Rajiv Movva, Amelia Lee Dogan, Rahul Bhargava, Isadora Cruxen, Angeles Martinez Cuba, Guilia Taurino, Wonyoung So, Catherine D'Ignazio",
+      "link": "https://dl.acm.org/doi/10.1145/3531146.3533132",
+      "source": "https://facctconference.org/2022/prizes.html",
       "areas": "HCI"
     },
     {

@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_843 awards · 17 venues · 2015–2026 · last updated **2026-09-03**._
+_847 awards · 17 venues · 2015–2026 · last updated **2026-09-20**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -11,7 +11,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
 - [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (82)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (56)
-- [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (26)
+- [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (30)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (3)
 - [HCOMP](#hcomp) — AAAI Conference on Human Computation and Crowdsourcing (12)
 - [IC2S2](#ic2s2) — International Conference on Computational Social Science (16)
@@ -823,6 +823,13 @@ _ACM Conference on Fairness, Accountability, and Transparency_ · [venue site](h
 - **Best Paper Award** — [Enhancing AI fairness through impact assessment in the European Union: a legal and computer science perspective](https://dl.acm.org/doi/10.1145/3593013.3594076) — Alessandra Calvi, Dimitris Kotzinos ([source](https://www.etis-lab.fr/2023/06/20/acm-facct-best-paper-award/))
 - **Best Paper Award** — [Queer In AI: A Case Study in Community-Led Participatory AI](https://dl.acm.org/doi/10.1145/3593013.3594134) — Organizers of QueerInAI, Anaelia Ovalle, Arjun Subramonian, Ashwin Singh, Claas Voelcker, Danica J. Sutherland, Davide Locatelli, Eva Breznik, Filip Klubička, Hang Yuan, Hetvi J, Huan Zhang, Jaidev Shriram, Kruno Lehman, Luca Soldaini, Maarten Sap, Marc Peter Deisenroth, Maria Leonor Pacheco, Maria Ryskina, Martin Mundt, Milind Agarwal, Nyx McLean, Pan Xu, A Pranav, Raj Korpan, Ruchira Ray, Sarah Mathew, Sarthak Arora, ST John, Tanvi Anand, Vishakha Agrawal, William Agnew, Yanan Long, Zijie J. Wang, Zeerak Talat, Avijit Ghosh, Nathaniel Dennler, Michael Noseworthy, Sharvani Jha, Emi Baylor, Aditya Joshi, Natalia Y. Bilenko, Andrew McNamara, Raphael Gontijo-Lopes, Alex Markham, Evyn Dǒng, Jackie Kay, Manu Saraswat, Nikhil Vytla, Luke Stark ([source](https://www.sml-group.cc/news/2023-06-15-facct-award/))
 - **Best Paper Award** — [The Privacy-Bias Tradeoff: Data Minimization and Racial Disparity Assessments in U.S. Government](https://dl.acm.org/doi/10.1145/3593013.3594015) — Arushi Gupta, Victor Y. Wu, Helen Webley-Brown ([source](https://reglab.stanford.edu/2023/08/16/2023-facct-best-paper-award/))
+
+### FAccT 2022
+
+- **Distinguished Paper Award** — [The Values Encoded in Machine Learning Research](https://dl.acm.org/doi/10.1145/3531146.3533083) — Abeba Birhane, Pratyusha Kalluri, Dallas Card, William Agnew, Ravit Dotan, Michelle Bao ([source](https://facctconference.org/2022/prizes.html))
+- **Distinguished Paper Award** — [Fairness-aware Model-agnostic Positive and Unlabeled Learning](https://dl.acm.org/doi/10.1145/3531146.3533225) — Ziwei Wu, Jingrui He ([source](https://facctconference.org/2022/prizes.html))
+- **Distinguished Student Paper Award** — [Algorithmic Tools in Public Employment Services: Towards a Jobseeker-Centric Perspective](https://dl.acm.org/doi/10.1145/3531146.3534631) — Kristen M. Scott, Sonja Mei Wang, Milagros Miceli, Pieter Delobelle, Karolina Sztandar-Sztanderska, Bettina Berendt ([source](https://facctconference.org/2022/prizes.html))
+- **Distinguished Student Paper Award** — [Towards Intersectional Feminist and Participatory ML: A Case Study in Supporting Feminicide Counterdata Collection](https://dl.acm.org/doi/10.1145/3531146.3533132) — Harini Suresh, Rajiv Movva, Amelia Lee Dogan, Rahul Bhargava, Isadora Cruxen, Angeles Martinez Cuba, Guilia Taurino, Wonyoung So, Catherine D'Ignazio ([source](https://facctconference.org/2022/prizes.html))
 
 ## GROUP
 _ACM International Conference on Supporting Group Work_ · [venue site](https://dl.acm.org/conference/group)
