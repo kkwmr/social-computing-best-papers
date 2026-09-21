@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_847 awards · 17 venues · 2015–2026 · last updated **2026-09-20**._
+_850 awards · 17 venues · 2014–2026 · last updated **2026-09-22**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -19,7 +19,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [IMWUT](#imwut) — ACM IMWUT / UbiComp (Interactive, Mobile, Wearable and Ubiquitous Technologies) (58)
 - [KDD](#kdd) — ACM SIGKDD Conference on Knowledge Discovery and Data Mining (34)
 - [SOCINFO](#socinfo) — International Conference on Social Informatics (4)
-- [UIST](#uist) — ACM Symposium on User Interface Software and Technology (39)
+- [UIST](#uist) — ACM Symposium on User Interface Software and Technology (42)
 - [WEBSCI](#websci) — ACM Web Science Conference (23)
 - [WSDM](#wsdm) — ACM International Conference on Web Search and Data Mining (16)
 - [WWW](#www) — The Web Conference (ACM Web Conference) (19)
@@ -1229,6 +1229,12 @@ _ACM Symposium on User Interface Software and Technology_ · [venue site](https:
 - **Best Paper Award** — [Foldio: Digital Fabrication of Interactive and Shape-Changing Objects With Foldable Printed Electronics](https://doi.org/10.1145/2807442.2807494) — Simon Olberding, Sergio Soto Ortega, Klaus Hildebrandt, Jurgen Steimle ([source](https://uist.acm.org/uist2015/awards))
 - **Best Paper Award** — [Orbits: Gaze Interaction for Smart Watches using Smooth Pursuit Eye Movements](https://doi.org/10.1145/2807442.2807499) — Augusto Esteves, Eduardo Velloso, Andreas Bulling, Hans Gellersen ([source](https://uist.acm.org/uist2015/awards))
 - **Best Paper Award** — [Webstrates: Shareable Dynamic Media](https://doi.org/10.1145/2807442.2807446) — Clemens N. Klokmose, James R. Eagan, Siemen Baader, Wendy Mackay, Michel Beaudouin-Lafon ([source](https://uist.acm.org/uist2015/awards))
+
+### UIST 2014
+
+- **Best Paper Award** — [Sensing Techniques for Tablet+Stylus Interaction](https://doi.org/10.1145/2642918.2647379) — Ken Hinckley, Michel Pahud, Hrvoje Benko, Pourang Irani, François Guimbretière, Marcel Gavriliu, Xiang 'Anthony' Chen, Fabrice Matulic, William Buxton, Andrew Wilson ([source](https://uist.acm.org/uist2014/))
+- **Best Paper Award** — [Expert Crowdsourcing with Flash Teams](https://doi.org/10.1145/2642918.2647409) — Daniela Retelny, Sébastien Robaszkiewicz, Alexandra To, Walter S. Lasecki, Jay Patel, Negar Rahmati, Tulsee Doshi, Melissa Valentine, Michael S. Bernstein ([source](https://uist.acm.org/uist2014/))
+- **Best Paper Award** — [PrintScreen: Fabricating Highly Customizable Thin-film Touch-Displays](https://doi.org/10.1145/2642918.2647413) — Simon Olberding, Michael Wessely, Jürgen Steimle ([source](https://uist.acm.org/uist2014/))
 
 ## WEBSCI
 _ACM Web Science Conference_ · [venue site](https://www.websci.org/)

@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-09-20",
-  "count": 847,
+  "lastUpdated": "2026-09-22",
+  "count": 850,
   "venues": [
     {
       "name": "CHI",
@@ -10257,6 +10257,42 @@
       "link": "https://doi.org/10.1145/2736277.2741691",
       "source": "https://archives.iw3c2.org/www2015/award-papers/",
       "areas": "WS"
+    },
+    {
+      "venue": "UIST",
+      "year": 2014,
+      "place": "",
+      "date": "",
+      "award": "Best Paper Award",
+      "title": "Sensing Techniques for Tablet+Stylus Interaction",
+      "author": "Ken Hinckley, Michel Pahud, Hrvoje Benko, Pourang Irani, François Guimbretière, Marcel Gavriliu, Xiang 'Anthony' Chen, Fabrice Matulic, William Buxton, Andrew Wilson",
+      "link": "https://doi.org/10.1145/2642918.2647379",
+      "source": "https://uist.acm.org/uist2014/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "UIST",
+      "year": 2014,
+      "place": "",
+      "date": "",
+      "award": "Best Paper Award",
+      "title": "Expert Crowdsourcing with Flash Teams",
+      "author": "Daniela Retelny, Sébastien Robaszkiewicz, Alexandra To, Walter S. Lasecki, Jay Patel, Negar Rahmati, Tulsee Doshi, Melissa Valentine, Michael S. Bernstein",
+      "link": "https://doi.org/10.1145/2642918.2647409",
+      "source": "https://uist.acm.org/uist2014/",
+      "areas": "HCI"
+    },
+    {
+      "venue": "UIST",
+      "year": 2014,
+      "place": "",
+      "date": "",
+      "award": "Best Paper Award",
+      "title": "PrintScreen: Fabricating Highly Customizable Thin-film Touch-Displays",
+      "author": "Simon Olberding, Michael Wessely, Jürgen Steimle",
+      "link": "https://doi.org/10.1145/2642918.2647413",
+      "source": "https://uist.acm.org/uist2014/",
+      "areas": "HCI"
     }
   ]
 }
