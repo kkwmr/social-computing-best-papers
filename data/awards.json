@@ -4,7 +4,7 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-09-22",
+  "lastUpdated": "2026-09-24",
   "count": 850,
   "venues": [
     {
@@ -4770,7 +4770,7 @@
       "award": "Best Paper Award",
       "title": "Investigating the Tradeoffs of Everyday Text-Entry Collection Methods",
       "author": "Andre Rodrigues, Hugo Nicolau, Andre R.B. Santos, Diogo Branco, Jay Rainey, David Verweij, Jan David Smeddinck, Kyle Montague, Tiago Guerreiro",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501908",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4782,7 +4782,7 @@
       "award": "Best Paper Award",
       "title": "Jury Learning: Integrating Dissenting Voices into Machine Learning Models",
       "author": "Mitchell L. Gordon, Michelle S. Lam, Joon Sung Park, Kayur Patel, Jeff Hancock, Tatsunori Hashimoto, Michael Bernstein",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3502004",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4794,7 +4794,7 @@
       "award": "Best Paper Award",
       "title": "Math Augmentation: How Authors Enhance the Readability of Formulas using Novel Visual Design Practices",
       "author": "Andrew Head, Amber Xie, Marti Hearst",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501932",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4806,7 +4806,7 @@
       "award": "Best Paper Award",
       "title": "Meander Coil++: A Body-scale Wireless Power Transmission Using Safe-to-body and Energy-efficient Transmitter Coil",
       "author": "Ryo Takahashi, Wakako Yukita, Tomoyuki Yokota, Takao Someya, Yoshihiro Kawahara",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3502119",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4818,7 +4818,7 @@
       "award": "Best Paper Award",
       "title": "Mobile-Friendly Content Design for MOOCs: Challenges, Requirements, and Design Opportunities",
       "author": "Jeongyeon Kim, Yubin Choi, Meng Xia, Juho Kim",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3502054",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4830,7 +4830,7 @@
       "award": "Best Paper Award",
       "title": "Mouth Haptics in VR using a Headset Ultrasound Phased Array",
       "author": "Vivian Shen, Craig Shultz, Chris Harrison",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501960",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4842,7 +4842,7 @@
       "award": "Best Paper Award",
       "title": "Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels",
       "author": "Jochen Gortler, Fred Hohman, Dominik Moritz, Kanit Wongsuphasawat, Donghao Ren, Rahul Nair, Marc Kirchner, Kayur Patel",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501823",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -4854,7 +4854,7 @@
       "award": "Best Paper Award",
       "title": "Squeezy-Feely: Investigating Lateral Thumb-Index Pinching as an Input Modality",
       "author": "Martin Schmitz, Sebastian Gunther, Dominik Schon, Florian Muller",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501981",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
