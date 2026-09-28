@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_850 awards · 17 venues · 2014–2026 · last updated **2026-09-24**._
+_854 awards · 17 venues · 2014–2026 · last updated **2026-09-29**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -9,7 +9,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [AAMAS](#aamas) — International Conference on Autonomous Agents and Multiagent Systems (28)
 - [CHI](#chi) — ACM CHI Conference on Human Factors in Computing Systems (392)
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
-- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (82)
+- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (86)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (56)
 - [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (30)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (3)
@@ -591,6 +591,10 @@ _ACM Conference on Computer-Supported Cooperative Work and Social Computing_ · 
 - **Best Paper** — [Harm in Layers: Compositions of Misinformative Hate in Anti-Asian Speech and Their Impacts on Perceived Harmfulness](https://dl.acm.org/doi/10.1145/3710990) — Jiawei Zhou, Gaurav Verma, Lei Zhang, Nicholas Chang, Munmun De Choudhury ([source](https://programs.sigchi.org/cscw/2025/awards))
 - **Best Paper** — [Faster Information for Effective Long-Term Discharge: A Field Study in Adult Foster Care](https://dl.acm.org/doi/10.1145/3710983) — Vince Bartle, Ashley Shearer, Alexandra Wroe, Nicola Dell, Nikhil Garg ([source](https://programs.sigchi.org/cscw/2025/awards))
 - **Best Paper** — [Reimagining Digital Well-being: A Theoretical Framework Based on the Psychology of Felt Structure and Illustrated through Creative Storytelling](https://dl.acm.org/doi/10.1145/3757396) — Chunchen Xu, Xiao Ge ([source](https://programs.sigchi.org/cscw/2025/awards))
+- **Honorable Mention** — [Navigating the Gig Economy as a Caregiver: Understanding the Dual Nature of Nanny Work](https://dl.acm.org/doi/10.1145/3757634) — Seungmin Jeong, Jamie Lee, Yunan Chen ([source](https://informatics.ics.uci.edu/conference-papers-for-cscw-2025/))
+- **Honorable Mention** — [Data and Technology for Equitable Public Administration: Understanding City Government Employees' Challenges and Needs](https://dl.acm.org/doi/10.1145/3757477) — Angie Zhang, Madison Liao, Elizaveta (Lee) Kravchenko, Marshanah Taylor, Angela Haddad, Chandra Bhat, S. Craig Watkins, Min Kyung Lee ([source](https://ischool.utexas.edu/news/ischool-researchers-cscw-2025-guide-papers-workshops-and-more))
+- **Honorable Mention** — [Research and/as Relation: Documenting Experiences of Community-Collaborative Researchers in HCI](https://dl.acm.org/doi/10.1145/3757651) — Joice Tang, Sucheta Ghoshal ([source](https://www.hcde.washington.edu/news/article/2025-10-20/hcde-researchers-recognized-cscw-2025-norway))
+- **Honorable Mention** — [From Data Activism to Activism in a Time of Data-Centrism: Affirming Epistemological Heterogeneity in Social Movements](https://dl.acm.org/doi/10.1145/3710911) — McKane Andrus, Sucheta Ghoshal, Sayamindu Dasgupta ([source](https://www.hcde.washington.edu/news/article/2025-10-20/hcde-researchers-recognized-cscw-2025-norway))
 
 ### CSCW 2024
 
