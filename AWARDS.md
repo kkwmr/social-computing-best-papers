@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_854 awards · 17 venues · 2014–2026 · last updated **2026-09-29**._
+_863 awards · 17 venues · 2014–2026 · last updated **2026-10-01**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -9,7 +9,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [AAMAS](#aamas) — International Conference on Autonomous Agents and Multiagent Systems (28)
 - [CHI](#chi) — ACM CHI Conference on Human Factors in Computing Systems (392)
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
-- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (86)
+- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (95)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (56)
 - [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (30)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (3)
@@ -621,6 +621,15 @@ _ACM Conference on Computer-Supported Cooperative Work and Social Computing_ · 
 - **Best Paper** — [The Effects of AI-based Credibility Indicators on the Detection and Spread of Misinformation under Social Influence](https://dl.acm.org/doi/10.1145/3555562) — Zhuoran Lu, Patrick Li, Weilong Wang, Ming Yin ([source](https://cscw.acm.org/2022/awards/))
 - **Best Paper** — [Collectives and Their Artifact Ecologies](https://dl.acm.org/doi/10.1145/3555533) — Henrik Korsgaard, Peter Lyle, Joanna Saad-Sulonen, Clemens Nylandsted Klokmose, Midas Nouwens, Susanne Bodker ([source](https://cscw.acm.org/2022/awards/))
 - **Best Paper** — [Auggie: Encouraging Effortful Communication through Handcrafted Digital Experiences](https://dl.acm.org/doi/10.1145/3555152) — Lei Zhang, Tianying Chen, Olivia Seow, Tim Chong, Sven Kratz, Yu Jiang Tham, Andres Monroy-Hernandez, Rajan Vaish, Fannie Liu ([source](https://cscw.acm.org/2022/awards/))
+- **Honorable Mention** — [The Data-Production Dispositif](https://dl.acm.org/doi/10.1145/3555561) — Milagros Miceli, Julian Posada ([source](https://cscw.acm.org/2022/awards/))
+- **Honorable Mention** — ['Don't make assumptions about me!': Understanding Children's Perception of Datafication Online](https://dl.acm.org/doi/10.1145/3555144) — Ge Wang, Jun Zhao, Max Van Kleek, Nigel Shadbolt ([source](https://cscw.acm.org/2022/awards/))
+- **Honorable Mention** — [Human and Technological Infrastructures of Fact-checking](https://dl.acm.org/doi/10.1145/3555143) — Prerna Juneja, Tanushree Mitra ([source](https://cscw.acm.org/2022/awards/))
+- **Honorable Mention** — [The Effects of System Initiative during Conversational Collaborative Search](https://dl.acm.org/doi/10.1145/3512913) — Sandeep Avula, Bogeum Choi, Jaime Arguello ([source](https://cscw.acm.org/2022/awards/))
+- **Honorable Mention** — ["Do You Ladies Relate?": Experiences of Gender Diverse People in Online Eating Disorder Communities](https://dl.acm.org/doi/10.1145/3555145) — Jessica L. Feuston, Michael Ann DeVito, Morgan Klaus Scheuerman, Katy Weathington, Marianna Benitez, Bianca Z. Perez, Lucy Sondheim, Jed R. Brubaker ([source](https://cscw.acm.org/2022/awards/))
+- **Honorable Mention** — [Understanding Older Adults' Participation in Online Social Activities: Lessons from the COVID-19 Pandemic](https://dl.acm.org/doi/10.1145/3564855) — Wei Zhao, Ryan M. Kelly, Melissa J. Rogerson, Jenny Waycott ([source](https://cscw.acm.org/2022/awards/))
+- **Honorable Mention** — [Privacy Research with Marginalized Groups: What We Know, What's Needed, and What's Next](https://dl.acm.org/doi/10.1145/3555556) — Shruti Sannon, Andrea Forte ([source](https://cscw.acm.org/2022/awards/))
+- **Honorable Mention** — [An Uncommon Task: Participatory Design in Legal AI](https://dl.acm.org/doi/10.1145/3512898) — Fernando Delgado, Solon Barocas, Karen Levy ([source](https://cscw.acm.org/2022/awards/))
+- **Honorable Mention** — [Hostile Ecologies: Navigating the Barriers to Community-Led Innovation](https://dl.acm.org/doi/10.1145/3555544) — Udayan Tandon, Vera Khovanskaya, Enrique Arcilla, Mikaiil Haji Hussein, Peter Zschiesche, Lilly Irani ([source](https://cscw.acm.org/2022/awards/))
 
 ### CSCW 2021
 
