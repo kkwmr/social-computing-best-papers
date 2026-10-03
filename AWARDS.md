@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_863 awards · 17 venues · 2014–2026 · last updated **2026-10-01**._
+_871 awards · 17 venues · 2014–2026 · last updated **2026-10-04**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -9,7 +9,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [AAMAS](#aamas) — International Conference on Autonomous Agents and Multiagent Systems (28)
 - [CHI](#chi) — ACM CHI Conference on Human Factors in Computing Systems (392)
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
-- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (95)
+- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (103)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (56)
 - [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (30)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (3)
@@ -603,6 +603,14 @@ _ACM Conference on Computer-Supported Cooperative Work and Social Computing_ · 
 - **Best Paper** — [Embedding Democratic Values into Social Media AIs via Societal Objective Functions](https://dl.acm.org/doi/10.1145/3641002) — Chenyan Jia, Michelle S. Lam, Minh Chau Mai, Jeff Hancock, Michael S. Bernstein ([source](https://cscw.acm.org/2024/index.php/awards/))
 - **Best Paper** — [Mending the Fabric: the Contentious, Collaborative Work of Repairing Broadband Maps](https://dl.acm.org/doi/10.1145/3687003) — Beatriz Palacios Abad, Elizabeth Belding, Morgan Vigil-Hayes, Ellen Zegura ([source](https://cscw.acm.org/2024/index.php/awards/))
 - **Best Paper** — [From Awareness to Action: Exploring End-User Empowerment Interventions for Dark Patterns in UX](https://dl.acm.org/doi/10.1145/3637336) — Yuwen Lu, Chao Zhang, Yuewen Yang, Yaxing Yao, Toby Jia-Jun Li ([source](https://cscw.acm.org/2024/index.php/awards/))
+- **Honorable Mention** — [PressProtect: Helping Journalists Navigate Social Media in the Face of Online Harassment](https://dl.acm.org/doi/10.1145/3687048) — Catherine Han, Anne Li, Deepak Kumar, Zakir Durumeric ([source](https://cscw.acm.org/2024/index.php/awards/))
+- **Honorable Mention** — ["I Upload... All Types of Different Things to Say the World of Blindness Is More Than What They Think It Is": A Study of Blind TikTokers' Identity Work from a Flourishing Perspective](https://dl.acm.org/doi/10.1145/3687013) — Yao Lyu, Jie Cai, Bryan Dosono, Davis Yadav, John M. Carroll ([source](https://cscw.acm.org/2024/index.php/awards/))
+- **Honorable Mention** — [Stoking the Flames: Understanding Escalation in an Online Harassment Community](https://dl.acm.org/doi/10.1145/3641015) — Kejsi Take, Victoria Zhong, Chris Geeng, Emmi Bevensee, Damon McCoy, Rachel Greenstadt ([source](https://cscw.acm.org/2024/index.php/awards/))
+- **Honorable Mention** — [Human-centered NLP Fact-checking: Co-Designing with Fact-checkers using Matchmaking for AI](https://dl.acm.org/doi/10.1145/3686962) — Houjiang Liu, Anubrata Das, Alexander Boltz, Didi Zhou, Daisy Pinaroc, Matthew Lease, Min Kyung Lee ([source](https://cscw.acm.org/2024/index.php/awards/))
+- **Honorable Mention** — [Commit: Online Groups with Participation Commitments](https://dl.acm.org/doi/10.1145/3687027) — Lindsay Popowski, Yutong Zhang, Michael S. Bernstein ([source](https://cscw.acm.org/2024/index.php/awards/))
+- **Honorable Mention** — [Computers as Bad Social Actors: Dark Patterns and Anti-Patterns in Interfaces that Act Socially](https://dl.acm.org/doi/10.1145/3653693) — Lize Alberts, Ulrik Lyngs, Max Van Kleek ([source](https://cscw.acm.org/2024/index.php/awards/))
+- **Honorable Mention** — ["They Make Us Old Before We're Old": Designing Ethical Health Technology with and for Older Adults](https://dl.acm.org/doi/10.1145/3687017) — Jianna So, Samantha Estrada, Matthew Jörke, Eva Bianchi, Maria Wang, Nava Haghighi, Kristen L. Fessele, James A. Landay, Andrea Cuadra ([source](https://cscw.acm.org/2024/index.php/awards/))
+- **Honorable Mention** — [Why I Choose This Sticker When Chatting with You: Exploring Design Considerations for Sticker Recommendation Services in Mobile Instant Messengers](https://dl.acm.org/doi/10.1145/3687063) — Gahyeon Bae, Daehyun Kwak, Youn-kyung Lim ([source](https://cscw.acm.org/2024/index.php/awards/))
 
 ### CSCW 2023
 
