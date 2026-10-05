@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_871 awards · 17 venues · 2014–2026 · last updated **2026-10-04**._
+_871 awards · 17 venues · 2014–2026 · last updated **2026-10-06**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -311,15 +311,15 @@ _ACM CHI Conference on Human Factors in Computing Systems_ · [venue site](https
 - **Best Paper Award** — [Mouth Haptics in VR using a Headset Ultrasound Phased Array](https://doi.org/10.1145/3491102.3501960) — Vivian Shen, Craig Shultz, Chris Harrison ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — [Neo: Generalizing Confusion Matrix Visualization to Hierarchical and Multi-Output Labels](https://doi.org/10.1145/3491102.3501823) — Jochen Gortler, Fred Hohman, Dominik Moritz, Kanit Wongsuphasawat, Donghao Ren, Rahul Nair, Marc Kirchner, Kayur Patel ([source](https://jeffhuang.com/best_paper_awards/))
 - **Best Paper Award** — [Squeezy-Feely: Investigating Lateral Thumb-Index Pinching as an Input Modality](https://doi.org/10.1145/3491102.3501981) — Martin Schmitz, Sebastian Gunther, Dominik Schon, Florian Muller ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Still Creepy After All These Years: The Normalization of Affective Discomfort in App Use — John S. Seberger, Irina Shklovski, Emily Swiatek, Sameer Patil ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — The TAC Toolkit: Supporting Design for User Acceptance of Health Technologies from a Macro-Temporal Perspective — Camille Nadal, Shane McCully, Kevin Doherty, Corina Sas, Gavin Doherty ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Towards Relatable Explainable AI with the Perceptual Process — Wencan Zhang, Brian Y Lim ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Weaving Stories: Toward Repertoires for Designing Things — Doenja Oogjes, Ron Wakkary ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — When Confidence Meets Accuracy: Exploring the Effects of Multiple Performance Indicators on Trust in Machine Learning Models — Amy Rechkemmer, Ming Yin ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — Zoom Obscura: Counterfunctional Design for Video-Conferencing — Chris Elsden, David Chatting, Michael Duggan, Andrew Carl Dwyer, Pip Thornton ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — 3D Printed Street Crossings: Supporting Orientation and Mobility Training with People who are Blind or have Low Vision — Leona M Holloway, Matthew Butler, Kim Marriott ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — "I Wanted to See How Bad It Was": Online Self-screening as a Critical Transition Point Among Young Adults with Common Mental Health Conditions — Kaylee Payne Kruzan, Jonah Meyerhoff, Theresa Nguyen, Madhu Reddy, David C. Mohr, Rachel Kornfield ([source](https://jeffhuang.com/best_paper_awards/))
-- **Best Paper Award** — "It's Kind of Like Code-Switching": Black Older Adults' Experiences with a Voice Assistant for Health Information Seeking — Christina Harrington, Radhika Garg, Amanda Woodward, Dimitri Williams ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Still Creepy After All These Years: The Normalization of Affective Discomfort in App Use](https://doi.org/10.1145/3491102.3502112) — John S. Seberger, Irina Shklovski, Emily Swiatek, Sameer Patil ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [The TAC Toolkit: Supporting Design for User Acceptance of Health Technologies from a Macro-Temporal Perspective](https://doi.org/10.1145/3491102.3502039) — Camille Nadal, Shane McCully, Kevin Doherty, Corina Sas, Gavin Doherty ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Towards Relatable Explainable AI with the Perceptual Process](https://doi.org/10.1145/3491102.3501826) — Wencan Zhang, Brian Y Lim ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Weaving Stories: Toward Repertoires for Designing Things](https://doi.org/10.1145/3491102.3501901) — Doenja Oogjes, Ron Wakkary ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [When Confidence Meets Accuracy: Exploring the Effects of Multiple Performance Indicators on Trust in Machine Learning Models](https://doi.org/10.1145/3491102.3501967) — Amy Rechkemmer, Ming Yin ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [Zoom Obscura: Counterfunctional Design for Video-Conferencing](https://doi.org/10.1145/3491102.3501973) — Chris Elsden, David Chatting, Michael Duggan, Andrew Carl Dwyer, Pip Thornton ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — [3D Printed Street Crossings: Supporting Orientation and Mobility Training with People who are Blind or have Low Vision](https://doi.org/10.1145/3491102.3502072) — Leona M Holloway, Matthew Butler, Kim Marriott ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — ["I Wanted to See How Bad It Was": Online Self-screening as a Critical Transition Point Among Young Adults with Common Mental Health Conditions](https://doi.org/10.1145/3491102.3501976) — Kaylee Payne Kruzan, Jonah Meyerhoff, Theresa Nguyen, Madhu Reddy, David C. Mohr, Rachel Kornfield ([source](https://jeffhuang.com/best_paper_awards/))
+- **Best Paper Award** — ["It's Kind of Like Code-Switching": Black Older Adults' Experiences with a Voice Assistant for Health Information Seeking](https://doi.org/10.1145/3491102.3501995) — Christina Harrington, Radhika Garg, Amanda Woodward, Dimitri Williams ([source](https://jeffhuang.com/best_paper_awards/))
 
 ### CHI 2021
 

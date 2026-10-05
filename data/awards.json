@@ -4,7 +4,7 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-10-04",
+  "lastUpdated": "2026-10-06",
   "count": 871,
   "venues": [
     {
@@ -5010,7 +5010,7 @@
       "award": "Best Paper Award",
       "title": "Still Creepy After All These Years: The Normalization of Affective Discomfort in App Use",
       "author": "John S. Seberger, Irina Shklovski, Emily Swiatek, Sameer Patil",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3502112",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5022,7 +5022,7 @@
       "award": "Best Paper Award",
       "title": "The TAC Toolkit: Supporting Design for User Acceptance of Health Technologies from a Macro-Temporal Perspective",
       "author": "Camille Nadal, Shane McCully, Kevin Doherty, Corina Sas, Gavin Doherty",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3502039",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5034,7 +5034,7 @@
       "award": "Best Paper Award",
       "title": "Towards Relatable Explainable AI with the Perceptual Process",
       "author": "Wencan Zhang, Brian Y Lim",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501826",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5046,7 +5046,7 @@
       "award": "Best Paper Award",
       "title": "Weaving Stories: Toward Repertoires for Designing Things",
       "author": "Doenja Oogjes, Ron Wakkary",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501901",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5058,7 +5058,7 @@
       "award": "Best Paper Award",
       "title": "When Confidence Meets Accuracy: Exploring the Effects of Multiple Performance Indicators on Trust in Machine Learning Models",
       "author": "Amy Rechkemmer, Ming Yin",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501967",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5070,7 +5070,7 @@
       "award": "Best Paper Award",
       "title": "Zoom Obscura: Counterfunctional Design for Video-Conferencing",
       "author": "Chris Elsden, David Chatting, Michael Duggan, Andrew Carl Dwyer, Pip Thornton",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501973",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5082,7 +5082,7 @@
       "award": "Best Paper Award",
       "title": "3D Printed Street Crossings: Supporting Orientation and Mobility Training with People who are Blind or have Low Vision",
       "author": "Leona M Holloway, Matthew Butler, Kim Marriott",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3502072",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5094,7 +5094,7 @@
       "award": "Best Paper Award",
       "title": "\"I Wanted to See How Bad It Was\": Online Self-screening as a Critical Transition Point Among Young Adults with Common Mental Health Conditions",
       "author": "Kaylee Payne Kruzan, Jonah Meyerhoff, Theresa Nguyen, Madhu Reddy, David C. Mohr, Rachel Kornfield",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501976",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5106,7 +5106,7 @@
       "award": "Best Paper Award",
       "title": "\"It's Kind of Like Code-Switching\": Black Older Adults' Experiences with a Voice Assistant for Health Information Seeking",
       "author": "Christina Harrington, Radhika Garg, Amanda Woodward, Dimitri Williams",
-      "link": "",
+      "link": "https://doi.org/10.1145/3491102.3501995",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
