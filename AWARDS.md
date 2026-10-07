@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_871 awards · 17 venues · 2014–2026 · last updated **2026-10-06**._
+_879 awards · 17 venues · 2014–2026 · last updated **2026-10-08**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -9,7 +9,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [AAMAS](#aamas) — International Conference on Autonomous Agents and Multiagent Systems (28)
 - [CHI](#chi) — ACM CHI Conference on Human Factors in Computing Systems (392)
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
-- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (103)
+- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (111)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (56)
 - [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (30)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (3)
@@ -575,6 +575,17 @@ _ACM SIGIR Conference on Human Information Interaction and Retrieval_ · [venue 
 
 ## CSCW
 _ACM Conference on Computer-Supported Cooperative Work and Social Computing_ · [venue site](https://cscw.acm.org/)
+
+### CSCW 2026
+
+- **Best Paper** — [Bridging Instead of Replacing Online Coding Communities with AI through Community-Enriched Chatbot Designs](https://dl.acm.org/doi/10.1145/3788044) — Junling Wang, Lahari Goswami, Gustavo Kreia Umbelino, Kiara Chau, Mrinmaya Sachan, April Yi Wang ([source](https://cscw.acm.org/2026/awards.html))
+- **Best Paper** — [Voice to Vision: Enabling Shared Understanding in Civic Decision-Making through Participatory Data Infrastructure](https://dl.acm.org/doi/10.1145/3788077) — Margaret Hughes, Cassandra Overney, Ashima Kamra, Jasmin Tepale, Elizabeth Hamby, Mahmood Jasim, Deb Roy ([source](https://cscw.acm.org/2026/awards.html))
+- **Best Paper** — [Impasse of Data-Drivenness: Bureaucratic Data Work and Reproduced Siloed Governance in Coordinating Smart Cities](https://dl.acm.org/doi/10.1145/3816951) — Alex Jiahong Lu, Yuling Sun ([source](https://cscw.acm.org/2026/awards.html))
+- **Best Paper** — [Expecting Too Much, Getting Too Little: Exploring the Challenges and Design Opportunities of Asynchronous AI Interviewers](https://dl.acm.org/doi/10.1145/3816931) — Md Nazmus Sakib, Naga Manogna Rayasam, Sanorita Dey ([source](https://cscw.acm.org/2026/awards.html))
+- **Best Paper** — [We Need Granular Sharing of De-Identified Data—But Will Patients Engage? Investigating Health System Leaders' and Patients' Perspectives on A Patient-Controlled Data-Sharing Platform](https://dl.acm.org/doi/10.1145/3788079) — Xi Lu, Di Hu, An T. Nguyen, Brad Morse, Lisa M. Schilling, Kai Zheng, Michelle S. Keller, Lucila Ohno-Machado, Yunan Chen ([source](https://cscw.acm.org/2026/awards.html))
+- **Best Paper** — [From Mediation to Escalation: Buffer Spaces for Workplace Concern Reporting](https://dl.acm.org/doi/10.1145/3816937) — Peiyao Liu, Lynn Dombrowski, Norman Makoto Su ([source](https://cscw.acm.org/2026/awards.html))
+- **Best Paper** — [Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy](https://dl.acm.org/doi/10.1145/3816986) — Nathaniel Swinger, Myeonghan Ryu, Cynthia M. Baseman, Kefan Xu, Andrew M. Sherrill, Rosa I. Arriaga ([source](https://cscw.acm.org/2026/awards.html))
+- **Best Paper** — [YouCred: An Online Tool Co-Designed with Fact-Checkers for Misinformation Discovery on YouTube](https://dl.acm.org/doi/10.1145/3817042) — Prerna Juneja, Dongkai Xie, Guangyin Ye, Tanushree Mitra ([source](https://cscw.acm.org/2026/awards.html))
 
 ### CSCW 2025
 

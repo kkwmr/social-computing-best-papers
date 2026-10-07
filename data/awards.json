@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-10-06",
-  "count": 871,
+  "lastUpdated": "2026-10-08",
+  "count": 879,
   "venues": [
     {
       "name": "CHI",
@@ -933,6 +933,102 @@
       "link": "https://dl.acm.org/doi/10.1145/3786304.3787925",
       "source": "https://chiir2026.github.io/awards.html",
       "areas": "HCI"
+    },
+    {
+      "venue": "CSCW",
+      "year": 2026,
+      "place": "Salt Lake City, Utah, USA",
+      "date": "October 10-14, 2026",
+      "award": "Best Paper",
+      "title": "Bridging Instead of Replacing Online Coding Communities with AI through Community-Enriched Chatbot Designs",
+      "author": "Junling Wang, Lahari Goswami, Gustavo Kreia Umbelino, Kiara Chau, Mrinmaya Sachan, April Yi Wang",
+      "link": "https://dl.acm.org/doi/10.1145/3788044",
+      "source": "https://cscw.acm.org/2026/awards.html",
+      "areas": "SC;HCI"
+    },
+    {
+      "venue": "CSCW",
+      "year": 2026,
+      "place": "Salt Lake City, Utah, USA",
+      "date": "October 10-14, 2026",
+      "award": "Best Paper",
+      "title": "Voice to Vision: Enabling Shared Understanding in Civic Decision-Making through Participatory Data Infrastructure",
+      "author": "Margaret Hughes, Cassandra Overney, Ashima Kamra, Jasmin Tepale, Elizabeth Hamby, Mahmood Jasim, Deb Roy",
+      "link": "https://dl.acm.org/doi/10.1145/3788077",
+      "source": "https://cscw.acm.org/2026/awards.html",
+      "areas": "SC;HCI"
+    },
+    {
+      "venue": "CSCW",
+      "year": 2026,
+      "place": "Salt Lake City, Utah, USA",
+      "date": "October 10-14, 2026",
+      "award": "Best Paper",
+      "title": "Impasse of Data-Drivenness: Bureaucratic Data Work and Reproduced Siloed Governance in Coordinating Smart Cities",
+      "author": "Alex Jiahong Lu, Yuling Sun",
+      "link": "https://dl.acm.org/doi/10.1145/3816951",
+      "source": "https://cscw.acm.org/2026/awards.html",
+      "areas": "SC;HCI"
+    },
+    {
+      "venue": "CSCW",
+      "year": 2026,
+      "place": "Salt Lake City, Utah, USA",
+      "date": "October 10-14, 2026",
+      "award": "Best Paper",
+      "title": "Expecting Too Much, Getting Too Little: Exploring the Challenges and Design Opportunities of Asynchronous AI Interviewers",
+      "author": "Md Nazmus Sakib, Naga Manogna Rayasam, Sanorita Dey",
+      "link": "https://dl.acm.org/doi/10.1145/3816931",
+      "source": "https://cscw.acm.org/2026/awards.html",
+      "areas": "SC;HCI"
+    },
+    {
+      "venue": "CSCW",
+      "year": 2026,
+      "place": "Salt Lake City, Utah, USA",
+      "date": "October 10-14, 2026",
+      "award": "Best Paper",
+      "title": "We Need Granular Sharing of De-Identified Data—But Will Patients Engage? Investigating Health System Leaders' and Patients' Perspectives on A Patient-Controlled Data-Sharing Platform",
+      "author": "Xi Lu, Di Hu, An T. Nguyen, Brad Morse, Lisa M. Schilling, Kai Zheng, Michelle S. Keller, Lucila Ohno-Machado, Yunan Chen",
+      "link": "https://dl.acm.org/doi/10.1145/3788079",
+      "source": "https://cscw.acm.org/2026/awards.html",
+      "areas": "SC;HCI"
+    },
+    {
+      "venue": "CSCW",
+      "year": 2026,
+      "place": "Salt Lake City, Utah, USA",
+      "date": "October 10-14, 2026",
+      "award": "Best Paper",
+      "title": "From Mediation to Escalation: Buffer Spaces for Workplace Concern Reporting",
+      "author": "Peiyao Liu, Lynn Dombrowski, Norman Makoto Su",
+      "link": "https://dl.acm.org/doi/10.1145/3816937",
+      "source": "https://cscw.acm.org/2026/awards.html",
+      "areas": "SC;HCI"
+    },
+    {
+      "venue": "CSCW",
+      "year": 2026,
+      "place": "Salt Lake City, Utah, USA",
+      "date": "October 10-14, 2026",
+      "award": "Best Paper",
+      "title": "Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy",
+      "author": "Nathaniel Swinger, Myeonghan Ryu, Cynthia M. Baseman, Kefan Xu, Andrew M. Sherrill, Rosa I. Arriaga",
+      "link": "https://dl.acm.org/doi/10.1145/3816986",
+      "source": "https://cscw.acm.org/2026/awards.html",
+      "areas": "SC;HCI"
+    },
+    {
+      "venue": "CSCW",
+      "year": 2026,
+      "place": "Salt Lake City, Utah, USA",
+      "date": "October 10-14, 2026",
+      "award": "Best Paper",
+      "title": "YouCred: An Online Tool Co-Designed with Fact-Checkers for Misinformation Discovery on YouTube",
+      "author": "Prerna Juneja, Dongkai Xie, Guangyin Ye, Tanushree Mitra",
+      "link": "https://dl.acm.org/doi/10.1145/3817042",
+      "source": "https://cscw.acm.org/2026/awards.html",
+      "areas": "SC;HCI"
     },
     {
       "venue": "DIS",
