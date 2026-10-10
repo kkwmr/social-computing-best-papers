@@ -1,6 +1,6 @@
 # Social Computing & HCI Best Paper Awards — full index
 
-_879 awards · 17 venues · 2014–2026 · last updated **2026-10-08**._
+_887 awards · 17 venues · 2014–2026 · last updated **2026-10-11**._
 
 _Generated from [`data/awards.json`](data/awards.json); browsable version at [casp.jp/social-computing-best-papers](https://casp.jp/social-computing-best-papers/)._
 
@@ -9,7 +9,7 @@ _Generated from [`data/awards.json`](data/awards.json); browsable version at [ca
 - [AAMAS](#aamas) — International Conference on Autonomous Agents and Multiagent Systems (28)
 - [CHI](#chi) — ACM CHI Conference on Human Factors in Computing Systems (392)
 - [CHIIR](#chiir) — ACM SIGIR Conference on Human Information Interaction and Retrieval (18)
-- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (111)
+- [CSCW](#cscw) — ACM Conference on Computer-Supported Cooperative Work and Social Computing (119)
 - [DIS](#dis) — ACM Conference on Designing Interactive Systems (56)
 - [FAccT](#facct) — ACM Conference on Fairness, Accountability, and Transparency (30)
 - [GROUP](#group) — ACM International Conference on Supporting Group Work (3)
@@ -586,6 +586,14 @@ _ACM Conference on Computer-Supported Cooperative Work and Social Computing_ · 
 - **Best Paper** — [From Mediation to Escalation: Buffer Spaces for Workplace Concern Reporting](https://dl.acm.org/doi/10.1145/3816937) — Peiyao Liu, Lynn Dombrowski, Norman Makoto Su ([source](https://cscw.acm.org/2026/awards.html))
 - **Best Paper** — [Postphenomenological Insights from an In-the-Wild Collective Sensing System Deployment for PTSD Therapy](https://dl.acm.org/doi/10.1145/3816986) — Nathaniel Swinger, Myeonghan Ryu, Cynthia M. Baseman, Kefan Xu, Andrew M. Sherrill, Rosa I. Arriaga ([source](https://cscw.acm.org/2026/awards.html))
 - **Best Paper** — [YouCred: An Online Tool Co-Designed with Fact-Checkers for Misinformation Discovery on YouTube](https://dl.acm.org/doi/10.1145/3817042) — Prerna Juneja, Dongkai Xie, Guangyin Ye, Tanushree Mitra ([source](https://cscw.acm.org/2026/awards.html))
+- **Honorable Mention** — [Making the Internet Work: Case Study in a Socialist, Low-Income Country Under US Sanctions](https://dl.acm.org/doi/10.1145/3816967) — Clara Rosa Cardoso, Peter Tolmie, Kaoru Misaki, Volker Wulf ([source](https://cscw.acm.org/2026/awards.html))
+- **Honorable Mention** — [Designing Accessible Interfaces to Enhance Collective Musical Engagement for and with Children with Autism](https://dl.acm.org/doi/10.1145/3816919) — Théo Jourdan, Alejandro VanZandt-Escobar, Baptiste Caramiaux ([source](https://cscw.acm.org/2026/awards.html))
+- **Honorable Mention** — ["I Just Don't Want My Work Being Fed Into The AI Blender": Queer Artists on Refusing and Resisting Generative AI](https://dl.acm.org/doi/10.1145/3816950) — Jordan Taylor, Joel Mire, Alicia DeVrio, Maarten Sap, Haiyi Zhu, Sarah E. Fox ([source](https://cscw.acm.org/2026/awards.html))
+- **Honorable Mention** — [Keeping Societies in the Loop: Citizen Dialogues on Facial Processing Technologies in Bolivia, India, Nigeria, Japan, and Germany](https://dl.acm.org/doi/10.1145/3816960) — Chiara Ullstein, Michel Hohendanner, Jens Grossklags, Olusola Babalola, Bukola Abimbola Onyekwelu, Amelia Katirai, Aimi Ozaki, Jun Kuribayashi, Arisa Ema, Nikhil Sharma, Srija Naskar, Nidhi Singh, Indiana Karina Jordan-Barros, Naira Paola Arnez-Jordan ([source](https://cscw.acm.org/2026/awards.html))
+- **Honorable Mention** — [Constructing Algorithmic Authority: How Multi-Channel Networks (MCNs) Govern Live-Streaming Labor in China](https://dl.acm.org/doi/10.1145/3816914) — Qing Xiao, Rongyi Chen, Jingjia Xiao, Tianyang Fu, Alice Qian, Xianzhe Fan, Bingbing Zhang, Zhicong Lu, Hong Shen ([source](https://cscw.acm.org/2026/awards.html))
+- **Honorable Mention** — [CoNewsReader: Supporting Comprehensive Understanding and Raising Critical Thoughts on Social Media News Through Comments](https://dl.acm.org/doi/10.1145/3816913) — Kangyu Yuan, Guanzheng Chen, Sizhe Liang, Hehai Lin, Qingyu Guo, Dingdong Liu, Xiaojuan Ma, Zhenhui Peng ([source](https://cscw.acm.org/2026/awards.html))
+- **Honorable Mention** — [Gaze-to-Body: Addressing Expressive Gaps of Desktop Users in Hybrid VR Meetings through Gaze-Driven Head-Controlled Avatars](https://dl.acm.org/doi/10.1145/3816939) — Ching Huang, Meng Ting Shih, Yuchuan Chen, Rong-Hao Liang, Liwei Chan ([source](https://cscw.acm.org/2026/awards.html))
+- **Honorable Mention** — [Toward the Development of Online Spiritual Care Communities: A Large-Scale Survey of Spiritual Care Stakeholders to Establish Initial Design Directions, Acceptability, and Feasibility](https://dl.acm.org/doi/10.1145/3817019) — Jesan Ahammed Ovi, Alemitu Bezabih, Anne-Marie Snider, Shadi Nourriz, Daniel McKenzie, C. Estelle Smith ([source](https://cscw.acm.org/2026/awards.html))
 
 ### CSCW 2025
 
