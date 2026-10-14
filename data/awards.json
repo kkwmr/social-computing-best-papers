@@ -4,8 +4,8 @@
   "url": "https://casp.jp/social-computing-best-papers/",
   "license": "https://creativecommons.org/licenses/by/4.0/",
   "creator": "Kazuki Kawamura",
-  "lastUpdated": "2026-10-13",
-  "count": 895,
+  "lastUpdated": "2026-10-15",
+  "count": 894,
   "venues": [
     {
       "name": "CHI",
@@ -5934,7 +5934,7 @@
       "award": "Best Paper Award",
       "title": "\"Can I Not Be Suicidal on a Sunday?\": Understanding Technology-Mediated Pathways to Mental Health Support",
       "author": "Sachin R Pendse, Amit Sharma, Aditya Vashistha, Munmun De Choudhury, Neha Kumar",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445410",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5982,7 +5982,7 @@
       "award": "Best Paper Award",
       "title": "LGBTQ Persons' Pregnancy Loss Disclosures to Known Ties on Social Media: Disclosure Decisions and Ideal Disclosure Environments",
       "author": "Cassidy Pyle, Lee Roosevelt, Ashley Lacombe-Duncan, Nazanin Andalibi",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445331",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -5994,7 +5994,7 @@
       "award": "Best Paper Award",
       "title": "Increasing Electrical Muscle Stimulation's Dexterity by means of Back of the Hand Actuation",
       "author": "Akifumi Takahashi, Jas Brooks, Hiroyuki Kajimoto, Pedro Lopes",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445761",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6006,7 +6006,7 @@
       "award": "Best Paper Award",
       "title": "Designing Menstrual Technologies with Adolescents",
       "author": "Marie Louise Juul Sondergaard, Marianela Ciolfi Felice, Madeline Balaam",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445471",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6018,7 +6018,7 @@
       "award": "Best Paper Award",
       "title": "The Show Must Go On: A conceptual model of conducting synchronous participatory design with children online",
       "author": "Kung Jin Lee, Wendy Roldan, Tian Qi Zhu, Harkiran Kaur Saluja, Sungmin Na, Britnie Chin, Yilin Zeng, Jin Ha Lee, Jason Yip",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445715",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6030,7 +6030,7 @@
       "award": "Best Paper Award",
       "title": "Building for 'We': Safety Settings for Couples with Memory Concerns",
       "author": "Nora McDonald, Helena M. Mentis",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445071",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6042,19 +6042,7 @@
       "award": "Best Paper Award",
       "title": "Oh, Snap! A Fabrication Pipeline to Magnetically Connect Conventional and 3D-Printed Electronics",
       "author": "Martin Schmitz, Jan Riemann, Florian Muller, Steffen Kreis, Max Muhlhauser",
-      "link": "",
-      "source": "https://jeffhuang.com/best_paper_awards/",
-      "areas": "HCI"
-    },
-    {
-      "venue": "CHI",
-      "year": 2021,
-      "place": "",
-      "date": "",
-      "award": "Best Paper Award",
-      "title": "Getting Ourselves Together: Data-centered participatory design research & epistemic burden",
-      "author": "Jennifer Pierre, Roderic Crooks, Morgan Currie, Britt Paris, Irene Pasquetto",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445641",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6078,7 +6066,7 @@
       "award": "Best Paper Award",
       "title": "Resisting the Medicalisation of Menopause: Reclaiming the Body through Design",
       "author": "Marianela Ciolfi Felice, Marie Louise Juul Sondergaard, Madeline Balaam",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445153",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6090,7 +6078,7 @@
       "award": "Best Paper Award",
       "title": "U!Scientist: Designing for People-Powered Research in Museums",
       "author": "Mmachi God'sglory Obiorah, James K.L. Hammerman, Becky Rother, Will Granger, Haley Margaret West, Michael Horn, Laura Trouille",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445334",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6100,9 +6088,9 @@
       "place": "",
       "date": "",
       "award": "Best Paper Award",
-      "title": "\"Why lose control?\" A Study of Freelancers' Perspectives with Gig Economy Platforms",
+      "title": "\"Why lose control?\" A Study of Freelancers' Experiences with Gig Economy Platforms",
       "author": "Juan Carlos Alvarez de la Vega, Marta E. Cecchinato, John Rooksby",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445305",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6114,7 +6102,7 @@
       "award": "Best Paper Award",
       "title": "\"That courage to encourage\": Participation and Aspirations in Chat-based Peer Support for Youth Living with HIV",
       "author": "Naveena Karusala, David Odhiambo Seeh, Cyrus Mugo, Brandon Guthrie, Megan A Moreno, Grace John-Stewart, Irene Inwani, Richard Anderson, Keshet Ronen",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445313",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6126,7 +6114,7 @@
       "award": "Best Paper Award",
       "title": "The Ethics of Multiplayer Game Design and Community Management: Industry Perspectives and Challenges",
       "author": "Lucy A. Sparrow, Martin Gibbs, Michael Arnold",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445363",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6138,7 +6126,7 @@
       "award": "Best Paper Award",
       "title": "Coupling Simulation and Hardware for Interactive Circuit Debugging",
       "author": "Evan Strasnick, Maneesh Agrawala, Sean Follmer",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445422",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6150,7 +6138,7 @@
       "award": "Best Paper Award",
       "title": "Impact of Task on Attentional Tunneling in Handheld Augmented Reality",
       "author": "Brandon Victor Syiem, Ryan M. Kelly, Jorge Goncalves, Eduardo Velloso, Tilman Dingler",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445580",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6162,7 +6150,7 @@
       "award": "Best Paper Award",
       "title": "XRgonomics: Facilitating the Creation of Ergonomic 3D Interfaces",
       "author": "Joao Marcelo Evangelista Belo, Anna Maria Feit, Tiare Feuchtner, Kaj Gronbaek",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445349",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6174,7 +6162,7 @@
       "award": "Best Paper Award",
       "title": "Heuristic Evaluation of Conversational Agents",
       "author": "Raina Langevin, Ross J Lordon, Thi Avrahami, Benjamin R. Cowan, Tad Hirsch, Gary Hsieh",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445312",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6186,7 +6174,7 @@
       "award": "Best Paper Award",
       "title": "Clandestino or Rifugiato? Anti-immigration Facebook Ad Targeting in Italy",
       "author": "Arthur Capozzi, Gianmarco De Francisci Morales, Yelena Mejova, Corrado Monti, Andre Panisson, Daniela Paolotti",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445082",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6198,7 +6186,7 @@
       "award": "Best Paper Award",
       "title": "The Landscape and Gaps in Open Source Fairness Toolkits",
       "author": "Michelle Seng Ah Lee, Jatinder Singh",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445261",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6210,7 +6198,7 @@
       "award": "Best Paper Award",
       "title": "Understanding Data Accessibility for People with Intellectual and Developmental Disabilities",
       "author": "Keke Wu, Emma Petersen, Tahmina Ahmad, David Burlinson, Shea Tanis, Danielle Albers Szafir",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445743",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6222,7 +6210,7 @@
       "award": "Best Paper Award",
       "title": "How to Evaluate Object Selection and Manipulation in VR? Guidelines from 20 Years of Studies",
       "author": "Joanna Bergstrom, Tor-Salve Dalsgaard, Jason Alexander, Kasper Hornbaek",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445193",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6234,7 +6222,7 @@
       "award": "Best Paper Award",
       "title": "Designing Interactive Transfer Learning Tools for ML Non-Experts",
       "author": "Swati Mishra, Jeffrey M Rzeszotarski",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445096",
       "source": "https://jeffhuang.com/best_paper_awards/",
       "areas": "HCI"
     },
@@ -6244,9 +6232,9 @@
       "place": "",
       "date": "",
       "award": "Best Paper Award",
-      "title": "Getting Ourselves Together: Epistemic Burden and Data-centered Participatory Design Research",
+      "title": "Getting Ourselves Together: Data-centered participatory design research & epistemic burden",
       "author": "Jennifer Pierre, Roderic Crooks, Morgan Currie, Britt Paris, Irene Pasquetto",
-      "link": "",
+      "link": "https://doi.org/10.1145/3411764.3445103",
       "source": "https://chi2021.acm.org/information/5208.html",
       "areas": "HCI"
     },
